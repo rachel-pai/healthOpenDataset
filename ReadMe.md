@@ -1,6 +1,6 @@
 # Collecting dutch healthcare related opendataset & analyzing important factors for NL coronovirus infected number
 
-The overall result is shared on this [notebook](https://colab.research.google.com/drive/1KJqXb5qk3vx3GvCpD5SxgwYkMbydu_N3#scrollTo=M6B3O8huMVmX)
+The overall result is published on [public_healthcare_dataset_NL.ipynb](public_healthcare_dataset_NL.ipynb).
 
 ## File structure:
 - [about_nl](about_nl):
@@ -24,3 +24,4 @@ The overall result is shared on this [notebook](https://colab.research.google.co
   - open dataset collected from nivel
 - [zorgkaartnederland](zorgkaartnederland):
   - open dataset collected from nivel
+- [public_healthcare_dataset_NL.ipynb](public_healthcare_dataset_NL.ipynb): the overall analysis of this opendatset.

@@ -2,6 +2,11 @@
 
 The overall result is published on [public_healthcare_dataset_NL.ipynb](public_healthcare_dataset_NL.ipynb).
 
+## Overall steps:
+1. Web crawlling/downloading open-dataset from different websites
+2. Inserting data into bigquery
+3. Combining all collected data to find important factors for NL coronovirus infected number
+
 ## File structure:
 - [about_nl](about_nl):
   - dutch cities info
@@ -25,3 +30,5 @@ The overall result is published on [public_healthcare_dataset_NL.ipynb](public_h
 - [zorgkaartnederland](zorgkaartnederland):
   - open dataset collected from nivel
 - [public_healthcare_dataset_NL.ipynb](public_healthcare_dataset_NL.ipynb): the overall analysis of this opendatset.
+
+<span style="color:red"> N.B.</span> Remeber to replace 'your bq credential json path' in python files and your_project_name in sql query files.

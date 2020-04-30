@@ -1,0 +1,249 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Screening; zwangeren en pasgeborenen, deelname, opsporing";"Screening; zwangeren en pasgeborenen";"50029NED";"PSIE, DOWN, SEO, hielprik, gehoorscreening
+Perioden";"2017-07-28T02:00:00";"Revisie";"De cijfers kunnen afwijken van de monitoringsrapporten en van eerdere versies van deze tabel omdat er sprake is van continue updates. Veranderingen in voorgaande jaren worden met terugwerkende kracht opgenomen in de tabel.";"nl";"RIVM";"Perjaar";"2002-2015";"
+De cijfers in deze tabel zijn afkomstig uit de Prenatale Screening Infectieziekten en Erytrocytenimmunisatie (PSIE), de Downscreening (DOWN) en het Structureel Echoscopisch Onderzoek oftewel de 20 weken echo (SEO), de neonatale hielprik screening (NHS) en het neonatale gehoorscreeningsinformatiesysteem (NIS) van het Centrum voor Bevolkingsonderzoek van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM/CvB). DOWN en SEO zijn vastgelegd in Peridos. Deze tabel is gemaakt voor De Staat van Volksgezondheid en Zorg en bevat gegevens over de screening op landelijk niveau. Per screening of onderzoek wordt het deelnamepercentage gegeven, en voor de hielprik- en gehoorscreening ook informatie over opgespoorde aandoeningen.
+
+Gegevens beschikbaar vanaf: 
+PSIE: 2006
+Peridos (DOWN en SEO): 2012
+NHS: 2002
+NIS: 2008
+
+Status van de cijfers: 
+PSIE: definitief
+Peridos (DOWN en SEO): definitief
+NHS: definitief
+NIS: definitief
+
+Wijzigingen per 28-07-2017: 
+Voor enkele onderwerpen is het jaar 2014 of 2015 toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+Jaarlijks
+
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+De cijfers in deze tabel zijn afkomstig uit de Prenatale Screening Infectieziekten en Erytrocytenimmunisatie (PSIE), de Downscreening (DOWN) en het Structureel Echoscopisch Onderzoek oftewel de 20 weken echo (SEO), de neonatale hielprik screening (NHS) en het neonatale gehoorscreeningsinformatiesysteem (NIS) van het Centrum voor Bevolkingsonderzoek van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM/CvB). DOWN en SEO zijn vastgelegd in Peridos. Deze tabel is gemaakt voor De Staat van Volksgezondheid en Zorg en bevat gegevens over de screening op landelijk niveau. Per screening of onderzoek wordt het deelnamepercentage gegeven, en voor de hielprik- en gehoorscreening ook informatie over opgespoorde aandoeningen.
+
+Gegevens beschikbaar vanaf: 
+PSIE: 2006
+Peridos (DOWN en SEO): 2012
+NHS: 2002
+NIS: 2008
+
+Status van de cijfers: 
+PSIE: definitief
+Peridos (DOWN en SEO): definitief
+NHS: definitief
+NIS: definitief
+
+Wijzigingen per 28-07-2017: 
+Voor enkele onderwerpen is het jaar 2014 of 2015 toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+Jaarlijks
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Bevolkingsonderzoek (screening)
+Bevolkingsonderzoeken en screeningen maken het mogelijk om ziektes in een vroeg stadium te ontdekken. Een bevolkingsonderzoek bestaat uit een reeks van opeenvolgende handelingen: selecteren en uitnodigen deelnemers, het uitvoeren van het onderzoek zelf, het beoordelen en communiceren van de uitslag en de eventuele verwijzing naar de zorgverleners. Deze handelingen, vaak uitgevoerd door verschillende partijen, moeten goed op elkaar aansluiten. Het RIVM/CvB is namens de minister van VWS verantwoordelijk voor de landelijke coördinatie en regie van de partijen die bij de bevolkingsonderzoeken zijn betrokken. 
+
+Deelnamepercentage
+Het aantal opgekomen personen binnen het verslagjaar gedeeld door het aantal uitgenodigde personen.
+
+Verklaring van symbolen:
+
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+* : voorlopige cijfers
+** : nader voorlopige cijfers
+
+Cijfers:
+De cijfers kunnen afwijken van de monitoringsrapporten en van eerdere versies van deze tabel omdat er sprake is van continue updates. Veranderingen in voorgaande jaren worden met terugwerkende kracht opgenomen in de tabel.
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+<a href='http://statflow-voorderden/Statweb/publication/?VW=T&DM=SBPREVW&PA=50028NED_v1&D1=0&D2=0&D3=(l-11)-l&HD=160411-1558&HDR=T&STB=G1,G2'>Deelname aan bevolkingsonderzoek; volwassenen, naar type kanker</a>
+
+
+4. BRONNEN EN METHODEN
+
+Bronnen: 
+
+Organisatie die de gegevens uit deze tabel levert:
+RIVM/CvB: <a href='http://www.rivm.nl/Onderwerpen/B/Bevolkingsonderzoeken_en_screeningen/Achtergrondinformatie/Bevolkingsonderzoek_de_organisatie/Wie_voeren_het_bevolkingsonderzoek_uit'>http://www.rivm.nl/Onderwerpen/B/Bevolkingsonderzoeken_en_screeningen/Achtergrondinformatie/Bevolkingsonderzoek_de_organisatie/Wie_voeren_het_bevolkingsonderzoek_uit</a> 
+
+Website van de gegevensbron waar de cijfers in deze tabel vandaan komen:
+
+PSIE: <a href='http://www.rivm.nl/Onderwerpen/Z/Zwangerschapsscreeningen'>http://www.rivm.nl/Onderwerpen/Z/Zwangerschapsscreeningen</a> 
+
+Peridos (DOWN en SEO): <a href='http://www.peridos.nl '>http://www.peridos.nl/</a> 
+
+NHS: <a href='http://www.rivm.nl/Onderwerpen/H/Hielprik_voor_professionals'>http://www.rivm.nl/Onderwerpen/H/Hielprik_voor_professionals</a>
+
+NIS: <a href='http://www.rivm.nl/Onderwerpen/G/Gehoorscreening_bij_pasgeborenen/'>http://www.rivm.nl/Onderwerpen/G/Gehoorscreening_bij_pasgeborenen/</a>
+
+PSIE Monitor: <a href='http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Bloedonderzoek_zwangeren/Proces_Monitor_PSIE'>http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Bloedonderzoek_zwangeren/Proces_Monitor_PSIE</a> 
+
+Peridos (DOWN en SEO) Monitor: <a href='http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Downscreening_en_twintigwekenecho/Monitor_2013_Screeningsprogramma_Downsyndroom_SEO'>http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Downscreening_en_twintigwekenecho/Monitor_2013_Screeningsprogramma_Downsyndroom_SEO</a>
+
+NHS Monitor: <a href='http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Hielprik/Monitor_en_evaluatie_van_de_neonatale_hielprikscreening_bij_kinderen'>http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Hielprik/Monitor_en_evaluatie_van_de_neonatale_hielprikscreening_bij_kinderen</a>
+
+NIS Monitor: <a href='http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Gehoorscreening/Monitoring_neonatale_gehoorscreening'>http://www.rivm.nl/Documenten_en_publicaties/Algemeen_Actueel/Uitgaven/Preventie_Ziekte_Zorg/Gehoorscreening/Monitoring_neonatale_gehoorscreening</a>
+
+Data verstrekker:
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+De Staat van Volksgezondheid en Zorg: <a href='http://www.staatvenz.nl/'>http://www.staatvenz.nl/</a>
+
+Informatie over de gegevensbron op Zorggegevens.nl:
+
+PSIE: <a href='https://bronnen.zorggegevens.nl/Bron?naam=Prenatale-Screening-Infectieziekten-en-Erytrocytenimmunisatie'>Link Zorggegevens PSIE</a>
+
+Peridos (DOWN en SEO): <a href='https://bronnen.zorggegevens.nl/Bron?naam=Perinatologisch-dossier-voor-de-screening'>Link Zorggegevens Peridos</a>
+
+NHS: <a href='https://bronnen.zorggegevens.nl/Bron?naam=Neonatale-Hielprik-Screening'>Link Zorggegevens NHS</a>
+
+Methoden:
+
+Beschrijving:
+
+De overheid biedt binnen het Nationaal Programma Bevolkingsonderzoek acht verschillende bevolkingsonderzoeken aan. De coördinatie van de verschillende bevolkingsonderzoeken in Nederland ligt bij het RIVM. Het CvB laat deze bevolkingsonderzoeken regelmatig monitoren. 
+
+PSIE
+De Prenatale Screening Infectieziekten en Erytrocytenimmunisatie (PSIE) is een landelijk bevolkingsonderzoek waarbij een zwangere vrouw in het eerste verloskundig consult bloedonderzoek aangeboden krijgt. Het bloed wordt gescreend op hepatitis B (hepB), syfilis (lues), HIV, rhesus-factor (RhD en RhC) en irregulaire erytrocyten antistoffen (IEA). Na de eerste bloedafname, die bij voorkeur vóór de 13e week in de zwangerschap plaatsvindt, kunnen er binnen het bevolkingsonderzoek verschillende vervolgacties in gang gezet worden als de resultaten daartoe aanleiding geven. 
+In Praeventis, een geautomatiseerd informatiesysteem, worden de gegevens van de drie preventieprogramma's (RVP, NHS en PSIE) opgeslagen. 
+
+Peridos (DOWN en SEO)
+Peridos is het digitale dossier waarin zorgverleners in het kader van de Downscreening (DOWN) en het Structureel Echoscopisch Onderzoek oftewel de 20 weken echo (SEO) gegevens vastleggen om de kwaliteit en het primaire proces van de screening te verbeteren en optimaliseren. 
+Peridos bevat de gegevens van zorgverleners en zorginstellingen die een contract hebben met een van de regionale centra. Deze contracten omvatten het counselen over prenatale screening, het uitvoeren van 1e trimester screening: NT-metingen en laboratoriumonderzoek (de combinatietest) en het verrichten van structureel echoscopisch onderzoek (SEO). Verder worden zorginhoudelijke gegevens vastgelegd waarmee inzage kan worden verkregen in de kwaliteit van de prenatale screening. Het systeem voldoet aan strenge eisen die gesteld kunnen worden in het kader van privacy van medische gegevens.
+
+NHS
+In deze registratie worden de resultaten van de Neonatale Hielprik Screening (de hielprik) van pasgeboren kinderen bijgehouden. Vijf laboratoria leveren uitslagen van bloedonderzoek via gespecificeerde elektronische berichten. In totaal leveren 151 organisaties gegevens aan. Dat zijn de laboratoria, JGZ-organisaties en Verloskundig Hulpverleners (praktijken verloskunde, gynaecologie en huisartsen).
+Bij de neonatale hielprik screening worden zeldzame ernstige aandoeningen bij de pasgeborene opgespoord, waardoor onherstelbare gezondheidsschade bij het kind te voorkomen is. De meeste aandoeningen zijn erfelijk, ze zijn niet te genezen, maar wel goed te behandelen met bijvoorbeeld medicijnen of een dieet. 
+In Praeventis, een geautomatiseerd informatiesysteem, worden de gegevens van de drie preventieprogramma's (RVP, NHS en PSIE) opgeslagen.
+
+NIS
+Het neonatale gehoorscreeningsinformatiesysteem heeft als doel om kinderen met een permanent gehoorverlies van minimaal 40 Decibel (dB) aan één of beide oren tijdig op te sporen, zodat bij kinderen met een dubbelzijdig gehoorverlies vóór de leeftijd van een half jaar gestart kan worden met een passende interventie.
+Voor de procesbewaking en kwaliteitsmonitoring van de neonatale gehoorscreening maken alle jeugdgezondheid (JGZ) organisaties gebruik van hetzelfde neonatale gehoorscreeningsinformatiesysteem: het Centraal Administratiesysteem van de Neonatale Gehoorscreening (CANG). De naam-adres-woonplaatsgegevens van de te screenen kinderen worden hieraan aangeleverd vanuit het digitaal dossier JGZ (DD-JGZ). De meetgegevens van de gehoorscreening worden vanuit de screeningsapparaten ingelezen in het NIS. De NSDSK heeft dit systeem ontwikkeld en zorgt voor beheer en onderhoud. De gegevens in het NIS vallen onder de verantwoordelijkheid van de JGZ organisaties.
+In het neonatale gehoorscreeningsinformatiesysteem worden geen resultaten van de gehoorscreening opgenomen die op de neonatale intensive care units (NICU) zijn uitgevoerd. 
+
+Doel:
+
+PSIE
+Hepatitis B- en HIV-dragerschap, congenitale syfilis en hemolytische ziekten van de foetus en/of de pasgeborene te voorkomen. De gegevens worden ook gebruikt als input voor beleid van VWS, de RIVM-CVB website en monitoring en evaluatie van het programma.
+
+Peridos (DOWN en SEO)
+Verbetering en optimalisering van de kwaliteit en het primaire proces van de screening op downsyndroom en het SEO (Structureel Echoscopisch Onderzoek).
+
+NHS
+De registratiegegevens worden o.a. gebruikt voor monitoring door VWS en de jaarlijkse procesevaluatie van het programma Monitoring door het RIVM (DVP en CVB).
+
+NIS
+Het neonatale gehoorscreeningsinformatiesysteem heeft als doelen voor de JGZ organisaties:  procesbewaking van de uitvoering van de neonatale gehoorscreening en kwaliteitsmonitoring. Op landelijk niveau worden de gegevens geanonimiseerd aangeleverd aan het RIVM/CvB voor de monitoring en evaluatie.  
+
+
+5. MEER INFORMATIE
+
+De Staat van Volksgezondheid en Zorg 
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM), Bilthoven
+Contact: info@staatvenz.nl
+
+CC BY-SA 4.0 gelicenseerd. 
+<a href='http://creativecommons.org/licenses/by-sa/4.0/deed.nl'>Volledige licentietekst CC BY-SA 4.0</a>";"graphtype=Table&r=Perioden&k=Topics";"$filter=((substringof('JJ',Perioden)))";"Table,Bar,Line";"Regulier";"De Staat van Volksgezondheid en Zorg, Rijksinstituut voor Volksgezondheid en Milieu (RIVM), Bilthoven";"2017-07-28T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"1";;;"TopicGroup";"";"Zwangerschapsscreening";"Screeningen tijdens de zwangerschap en net na de geboorte sporen eventuele complicaties, ziekten en aandoeningen vroegtijdig op. Doel hiervan is zo snel mogelijk met een behandeling te beginnen of handelingsopties te bieden
+
+De screeningen tijdens de zwangerschap zijn gericht op:
+- Het opsporen van infectieziekten en erytrocytenimmunisatie (PSIE) door middel van bloedonderzoek vóór de 13e zwangerschapsweek; 
+- Het bepalen van een eventueel verhoogde kans op downsyndroom door bloed- en echo onderzoek; 
+-Het opsporen van lichamelijke afwijkingen door middel van een echo bij 20 weken zwangerschap.
+
+De screeningen tijdens de zwangerschap en na de geboorte behoren tot de landelijke bevolkingsonderzoeken.
+";;;;;
+"2";"1";"1";"Topic";"PSIE_1";"PSIE";"Deelnamepercentage Prenatale Screening Infectieziekten en Erytrocytenimmunisatie (PSIE).
+
+PSIE is een landelijk bevolkingsonderzoek waarbij een zwangere vrouw bloedonderzoek aangeboden krijgt in het eerste verloskundig consult (bij voorkeur vóór week 13 van de zwangerschap). De screening is erop gericht een aantal ernstige ziektes bij ongeboren en pasgeboren kinderen te voorkomen.
+
+Teller: het aantal in Praeventis geregistreerde zwangeren met eerste bloedonderzoek, verminderd met het aantal dubbele registraties van dezelfde zwangerschap en met het aantal vrouwen woonachtig in het buitenland (hun kinderen komen niet bij het aantal levendgeborenen van het CBS). 
+Noemer: het aantal levendgeborenen in juli jaar x t/m juni jaar x+1 (CBS) plus het geschatte aantal met vroegtijdig verlies van de zwangerschap minus een correctie voor meerlingzwangerschappen. Sinds juli 2011 worden bij de teller ook de afgebroken zwangerschappen meegeteld, en wordt de noemer sterker gecorrigeerd voor vroegtijdig verlies van de zwangerschap (met 3,8% op basis van het geregistreerde aantal verloren zwangerschappen bij RhD-negatieve zwangeren).";;"Double";"% zwangeren met eerste bloedonderzoek";"1";"Missing"
+"3";"2";"1";"Topic";"DownscreeningDOWN_2";"Downscreening (DOWN)";"Deelnamepercentage Downscreening (DOWN).
+
+Voor de screening op downsyndroom wordt gebruikgemaakt van de combinatietest. Deze test bestaat uit twee onderdelen:
+- Een bloedonderzoek bij de moeder, 
+- Een echo om de nekplooi van het kind te meten.
+
+Teller: Aantal zwangeren dat heeft deelgenomen aan de combinatietest. 
+Noemer: Aantal zwangeren met counselingsgesprek voor downscreening. 
+
+";;"Double";"% deelname aan combinatietest";"1";"Missing"
+"4";"3";"1";"Topic";"k_20WekenEchoSEO_3";"20 weken echo (SEO)";"Deelnamepercentage Structureel Echoscopisch Onderzoek (SEO) oftewel 20 weken echo.
+
+Met de 20 weken echo kan een zwangere vrouw tijdens de zwangerschap laten onderzoeken of  het ongeboren kind lichamelijke afwijkingen heeft.
+ 
+Teller: aantal zwangeren dat heeft deelgenomen aan het SEO.
+Noemer: aantal zwangeren met counselingsgesprek voor SEO.
+";;"Double";"% deelname";"1";"Missing"
+"5";;;"TopicGroup";"";"Screening pasgeborenen";;;;;;
+"6";;"5";"TopicGroup";"";"Neonatale hielprikscreening (NHS)";"In de neonatale hielprikscreening worden zeldzame ernstige aandoeningen bij de pasgeborene opgespoord, waardoor onherstelbare gezondheidsschade bij het kind te voorkomen is.";;;;;
+"7";"4";"6";"Topic";"DeelnameNHS_4";"Deelname NHS";"Deelnamepercentage neonatale hielprikscreening (NHS).
+
+Teller: Aantal kinderen dat gescreend is (bloed afgenomen en de hielprikkaart in het laboratorium is verwerkt). 
+Noemer: aantal levendgeborenen exclusief kinderen die zijn overleden vóór het moment van afname van de hielprik. 
+";;"Double";"% bloed afgenomen en verwerkt";"1";"Missing"
+"8";"5";"6";"Topic";"OpsporingspercentageNHS_5";"Opsporingspercentage NHS";"Percentage pasgeborenen met aandoening opgespoord met de neonatale hielprik screening (NHS) (programma sensitiviteit).
+
+Teller: aantal kinderen met een specifieke ziekte uit de NHS. Noemer: alle pasgeborenen met een ziekte waar op gescreend wordt in de NHS; het betreft het totaal van het aantal opgespoorden, fout-negatieven en gemisten.
+";;"Double";"% met een specifieke ziekte";"1";"Missing"
+"9";;"5";"TopicGroup";"";"Neonatale gehoorscreening (NIS)";"De neonatale gehoorscreening heeft als doel om kinderen met een permanent gehoorverlies van minimaal 40 Decibel (dB) aan één of beide oren tijdig op te sporen, zodat bij kinderen met een dubbelzijdig gehoorverlies vóór de leeftijd van een half jaar gestart kan worden met een passende interventie.";;;;;
+"10";"6";"9";"Topic";"DeelnameNIS_6";"Deelname NIS";"Deelnamepercentage neonatale gehoorscreening (NGS).
+
+Teller: Aantal gescreend in de eerste ronde. 
+Noemer: gecorrigeerd aantal levendgeborenen. Het gecorrigeerd aantal levendgeborenen wordt berekend door: Aantal geborenen minus 1) aantal geborenen dat voor voltooiing van de screening (t/m diagnostiek) overlijdt; 2) aantal kinderen dat in de JGZ-registratie is opgenomen als kind dat in het NICU-screeningsprogramma wordt gescreend. 
+
+
+
+
+";;"Double";"% screening eerste ronde";"1";"Missing"
+"11";;"9";"TopicGroup";"";"Opgespoorde aandoeningen NIS";;;;;;
+"12";"7";"11";"Topic";"Totaal_7";"Totaal";"Aantal opgespoorde aandoeningen met de neonatale gehoorscreening (NGS).
+
+Het aantal opgespoorde aandoeningen (unilateraal en bilateraal, oftewel eenzijdig of tweezijdig, en totaal) via gehoorscreening door JGZ, zonder de opgespoorde kinderen via gehoorscreening door neonatale intensive care units (NICU). Gehoorafwijkingen in deze NICU’s vallen niet binnen het screeningsprogramma en zijn dus niet in de cijfers opgenomen. Om deze reden kunnen er geen incidenties (percentages) weergegeven worden.
+";;"Long";"Aantal per 100 000";"0";"Missing"
+"13";"8";"11";"Topic";"UnilateraalEenzijdig_8";"Unilateraal (eenzijdig)";"Aantal opgespoorde aandoeningen met de neonatale gehoorscreening (NGS).
+
+Het aantal opgespoorde aandoeningen (unilateraal en bilateraal, oftewel eenzijdig of tweezijdig, en totaal) via gehoorscreening door JGZ, zonder de opgespoorde kinderen via gehoorscreening door neonatale intensive care units (NICU). Gehoorafwijkingen in deze NICU’s vallen niet binnen het screeningsprogramma en zijn dus niet in de cijfers opgenomen. Om deze reden kunnen er geen incidenties (percentages) weergegeven worden.";;"Long";"Aantal per 100 000";"0";"Missing"
+"14";"9";"11";"Topic";"BilateraalTweezijdig_9";"Bilateraal (tweezijdig)";"Aantal opgespoorde aandoeningen met de neonatale gehoorscreening (NGS).
+
+Het aantal opgespoorde aandoeningen (unilateraal en bilateraal, oftewel eenzijdig of tweezijdig, en totaal) via gehoorscreening door JGZ, zonder de opgespoorde kinderen via gehoorscreening door neonatale intensive care units (NICU). Gehoorafwijkingen in deze NICU’s vallen niet binnen het screeningsprogramma en zijn dus niet in de cijfers opgenomen. Om deze reden kunnen er geen incidenties (percentages) weergegeven worden.";;"Long";"Aantal per 100 000";"0";"Missing"
+"Perioden"
+Key;Title;Description;Status
+"2002JJ00";"2002";"";"Definitief"
+"2003JJ00";"2003";"";"Definitief"
+"2004JJ00";"2004";"";"Definitief"
+"2005JJ00";"2005";"";"Definitief"
+"2006JJ00";"2006";"";"Definitief"
+"2007JJ00";"2007";"";"Definitief"
+"2008JJ00";"2008";"";"Definitief"
+"2009JJ00";"2009";"";"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015JJ00";"2015";;"Definitief"

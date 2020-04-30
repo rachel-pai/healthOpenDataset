@@ -1,0 +1,807 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Rijksvaccinatieprogramma; soort vaccinatie, regio (indeling 2019)";"Rijksvaccinatieprogramma; regio 2019";"50055NED";"Vaccinatiepercentage, aantal vaccinaties, populatie
+Soort vaccinatie, regio (gemeentelijke indeling van 2020)";"2019-06-24T15:30:00";"Nieuw";"";"nl";"RIVM";"Eenmalig";"2006-2020";"
+De cijfers in deze tabel zijn afkomstig uit het landelijke vaccinatieregister Præventis van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) - Dienst Vaccinvoorziening en Preventieprogramma's (DVP). Deze tabel is gemaakt voor het RIVM en bevat gegevens over de deelname (vaccinatiegraad) aan het Rijksvaccinatieprogramma uit het verslagjaar 2019. De vaccinatiegraad is het percentage kinderen in een bepaald geboortecohort dat de gewenste vaccinatietoestand volgens het RVP vaccinatieschema heeft bereikt. Dit percentage wordt vastgesteld op verschillende leeftijden (zuigelingen, kleuters, schoolkinderen, adolescente meisjes) en voor verschillende vaccinaties.
+
+Gegevens beschikbaar vanaf: 
+2006 
+
+Status van de cijfers: 
+Definitief
+
+Wijzigingen per 24-06-2019:  
+Geen, dit is een nieuwe tabel.
+
+Wanneer komen er nieuwe cijfers?
+Jaarlijks in de tweede helft van juni over het voorafgaande jaar. 
+Nieuwe cijfers worden in een nieuwe tabel gepubliceerd en niet toegevoegd aan deze tabel. De reden voor het publiceren in aparte tabellen is dat elk jaar de meest recente gemeentelijke indeling voor alle beschikbare jaren wordt gebruikt.
+
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+De cijfers in deze tabel zijn afkomstig uit het landelijke vaccinatieregister Præventis van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) - Dienst Vaccinvoorziening en Preventieprogramma's (DVP). Deze tabel is gemaakt voor het RIVM en bevat gegevens over de deelname (vaccinatiegraad) aan het Rijksvaccinatieprogramma uit het verslagjaar 2019. De vaccinatiegraad is het percentage kinderen in een bepaald geboortecohort dat de gewenste vaccinatietoestand volgens het RVP vaccinatieschema heeft bereikt. Dit percentage wordt vastgesteld op verschillende leeftijden (zuigelingen, kleuters, schoolkinderen, adolescente meisjes) en voor verschillende vaccinaties.
+
+Gegevens beschikbaar vanaf: 
+2006 
+
+Status van de cijfers: 
+Definitief
+
+Wijzigingen per 24-06-2019:  
+Geen, dit is een nieuwe tabel.
+
+Wanneer komen er nieuwe cijfers?
+Jaarlijks in de tweede helft van juni over het voorafgaande jaar. 
+Nieuwe cijfers worden in een nieuwe tabel gepubliceerd en niet toegevoegd aan deze tabel. De reden voor het publiceren in aparte tabellen is dat elk jaar de meest recente gemeentelijke indeling voor alle beschikbare jaren wordt gebruikt.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities: 
+
+Rijksvaccinatieprogramma (RVP)
+Het RVP beoogt momenteel alle kinderen die woonachtig zijn in Nederland door middel van vaccinatie te beschermen tegen de volgende infectieziekten: difterie, kinkhoest, tetanus, poliomyelitis (DKTP), Haemophilus influenzae serotype b (Hib)-infectie, hepatitis B (Hep B), bof, mazelen, rodehond (BMR), meningokokken C- (Men C) en pneumokokkenziekte (Pneu) en baarmoederhalskanker veroorzaakt door het humaan papillomavirus (HPV). De vaccinaties worden aangeboden volgens het RVP vaccinatieschema.
+
+Verklaring van symbolen:
+
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+* : voorlopige cijfers
+** : nader voorlopige cijfers
+
+Cijfers:
+
+Aantallen en percentages over voorgaande jaren zijn (indien nodig) omgerekend naar de meest recente gemeentelijke indeling. In deze tabel is de gemeentelijke indeling van het jaar 2019 aangehouden (355 gemeenten).  
+
+De cijfers van de gemeenten Vlieland (GM0096) en Schiermonnikoog (GM0088) zijn niet opgenomen vanwege onthullingsrisico door lage aantallen. 
+
+In deze tabel valt de gemeente Mook en Middelaar (GM0944) onder de GGD Gelderland-Zuid (GG2014) en niet zoals gebruikelijk onder de GGD Limburg-Noord (GG6011).
+
+In 2011 omvat de populatie voor de vaccinatie HPV volledig afgesloten de vier geboortecohorten (1993 t/m 1996) die in aanmerking kwamen voor de HPV inhaalcampagne, en dus niet alleen het cohort 1996.
+
+In deze tabel wordt op vijfjarige leeftijd tot 2014 de vaccinatietoestand 'D(K)TP gerevaccineerd' en vanaf 2014 de toestand 'D(K)TP voldoende beschermd' vastgesteld. Voldoende beschermd is de som van het aantal gerevaccineerde kinderen en het aantal kinderen dat basisimmuniteit pas bereikt op de leeftijd van 2-5 jaar en daarom niet in aanmerking komt voor revaccinatie. Voldoende beschermd is een fractie hoger dan alleen gerevaccineerd en kan dus niet onderling vergeleken worden.
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+<a href='https://statline.rivm.nl/#/RIVM/nl/dataset/50033NED'>Rijksvaccinatieprogramma; soort vaccinatie, regio (indeling 2016)</a>
+
+<a href='https://statline.rivm.nl/#/RIVM/nl/dataset/50048NED'>Rijksvaccinatieprogramma; soort vaccinatie, regio (indeling 2017)</a>
+
+<a href='https://statline.rivm.nl/#/RIVM/nl/dataset/50051NED'>Rijksvaccinatieprogramma; soort vaccinatie, regio (indeling 2018)</a>
+
+
+4. BRONNEN EN METHODEN
+
+Bronnen: 
+
+Organisatie die de gegevens uit deze tabel levert:
+RIVM: <a href='https://www.rivm.nl/'>https://www.rivm.nl/</a> 
+
+Website van de gegevensbron waar de cijfers in deze tabel vandaan komen:
+
+Website Rijksvaccinatieprogramma: <a href='https://www.rijksvaccinatieprogramma.nl'>https://www.rijksvaccinatieprogramma.nl</a>
+
+Rijksvaccinatieprogramma op volksgezondheidenzorg.info: <a href='https://www.volksgezondheidenzorg.info/onderwerp/vaccinaties'>https://www.volksgezondheidenzorg.info/onderwerp/vaccinaties</a>
+
+Rapport verslagjaar 2019: <a href= 'https://www.rivm.nl/bibliotheek/rapporten/2019-0015.pdf'>https://www.rivm.nl/bibliotheek/rapporten/2019-0015.pdf</a> 
+
+Data verstrekker:
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM) - Dienst Vaccinvoorziening en Preventieprogramma's (DVP)
+
+Informatie over de gegevensbron op Zorggegevens.nl:
+<a href='https://bronnen.zorggegevens.nl/Bron?naam=Rijksvaccinatieprogramma'>Link Zorggegevens</a>
+
+Methoden:
+
+Beschrijving:
+Het landelijke vaccinatieregister Præventis vormt sinds 2005 de basis voor het bepalen van de deelname (vaccinatiegraad) aan het Rijksvaccinatieprogramma (RVP). Sinds verslagjaar 2006 wordt op individueel niveau van het kind bepaald of de gewenste vaccinatietoestand bereikt is voor een bepaalde individuele leeftijd. De rapportage is gebaseerd op geboortecohorten.
+
+In verslagjaar 2019 is de vaccinatiegraad voor de geboortecohorten 2004, 2008, 2013 en 2016 vastgesteld aangezien in dat jaar alle kinderen in deze cohorten volledig de leeftijd van respectievelijk 14 jaar, 10 jaar, 5 jaar en 2 jaar hebben bereikt. Eerdere verslagjaren gaan over corresponderende eerdere geboortecohorten. Het betreft de voor de verslagjaren 2006-2019 de volgende cohorten: zuigelingen geboren in 2003-2016, kleuters geboren in 2000-2013, schoolkinderen geboren in 1995-2008 en adolescente meisjes geboren in 1993-2004.
+
+Doel:
+Voor de evaluatie van het Rijksvaccinatieprogramma (RVP) is het noodzakelijk om de deelname aan het RVP (vaccinatiegraad) te monitoren.
+
+
+5. MEER INFORMATIE
+
+Volksgezondheidenzorg.info
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM), Bilthoven
+<a href='https://volksgezondheidenzorg.info/contact'>Contactpagina Volksgezondheidenzorg.info</a>
+
+CC BY-SA 4.0 gelicenseerd. 
+<a href='http://creativecommons.org/licenses/by-sa/4.0/deed.nl'>Volledige licentietekst CC BY-SA 4.0</a> 
+
+";"ts=1559908881393&graphtype=Table&r=Topics,Perioden&k=Vaccinaties&t=Regio";"$filter=((Vaccinaties eq 'A028769') or (Vaccinaties eq 'A028770') or (Vaccinaties eq 'A028771') or (Vaccinaties eq 'A028772') or (Vaccinaties eq 'A028773') or (Vaccinaties eq 'A028774') or (Vaccinaties eq 'A028775') or (Vaccinaties eq 'A041828') or (Vaccinaties eq 'A028776') or (Vaccinaties eq 'A028777') or (Vaccinaties eq 'A028778') or (Vaccinaties eq 'A028779') or (Vaccinaties eq 'A028780')) and ((Regio eq 'NL01  '))&$select=Vaccinaties, Regio, Perioden, Vaccinatiegraad_3";"Table,Bar,Line";"Regulier";"Volksgezondheidenzorg.info, Rijksinsituut voor Volksgezondheid en Milieu (RIVM), Bilthoven";"2020-06-25T09:30:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Vaccinaties";"Vaccinaties";"";;;;;
+"1";"1";;"Dimension";"Regio";"Regio";"";;;;;
+"2";"2";;"TimeDimension";"Perioden";"Perioden";"";"false";;;;
+"3";"3";;"Topic";"Populatie_1";"Populatie";"Kinderen (opgenomen in de Basisregistratie Personen (BRP)) in een bepaald geboortecohort waarvoor de vaccinatietoestand volgens het Rijksvaccinatieprogramma (RVP) vaccinatieschema wordt bepaald. ";;"Long";"aantal";"0";"Impossible"
+"4";"4";;"Topic";"Gevaccineerden_2";"Gevaccineerden";"Het aantal gevaccineerde kinderen in een bepaald geboortecohort dat de gewenste vaccinatietoestand volgens het Rijksvaccinatieprogramma (RVP) vaccinatieschema heeft bereikt. Dit aantal wordt vastgesteld op verschillende leeftijden (zuigelingen, kleuters, schoolkinderen, adolescente meisjes) en voor verschillende vaccinaties.";;"Long";"aantal";"0";"Impossible"
+"5";"5";;"Topic";"Vaccinatiegraad_3";"Vaccinatiegraad";"De vaccinatiegraad is het percentage kinderen in een bepaald geboortecohort dat de gewenste vaccinatietoestand volgens het Rijksvaccinatieprogramma (RVP) vaccinatieschema heeft bereikt. Dit percentage wordt vastgesteld op verschillende leeftijden (zuigelingen, kleuters, schoolkinderen, adolescente meisjes) en voor verschillende vaccinaties.";;"Double";"%";"1";"Impossible"
+"Vaccinaties"
+Key;Title;Description
+"A028769";"DKTP basisimmuun (2 jaar)";"Difterie, kinkhoest, tetanus, poliomyelitis (D(K)TP).
+
+Vaccinatie wordt aangeboden op 2, 3, 4 en 11 maanden, 4 jaar en 9 jaar. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 1 jaar (DKTP-3, primaire serie, niet in deze tabel getoond), 2 jaar (DKTP-4, basisimmuun), 5 jaar (DKTP-5, gerevaccineerd of voldoende beschermd*), 10 jaar (DTP-6, volledig afgesloten). 
+
+*In deze tabel wordt op vijfjarige leeftijd tot 2014 de vaccinatietoestand 'gerevaccineerd' en vanaf 2014 de toestand 'voldoende beschermd' vastgesteld. Voldoende beschermd is de som van het aantal gerevaccineerde kinderen en het aantal kinderen dat basisimmuniteit pas bereikt op de leeftijd van 2-5 jaar en daarom niet in aanmerking komt voor revaccinatie. Voldoende beschermd is een fractie hoger dan alleen gerevaccineerd en kan dus niet onderling vergeleken worden."
+"A028770";"Hib volledig (2 jaar)";"Haemophilus influenzae serotype b (Hib)-infectie (Hib).
+
+Vaccinatie wordt aangeboden op 2, 3, 4 en 11 maanden. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 1 jaar (Hib-3, primaire serie, niet in de tabel getoond), 2 jaar (Hib-4, volledig afgesloten)."
+"A028771";"BMR basisimmuun (2 jaar)";"Bof, mazelen, rodehond (BMR).
+
+Vaccinatie wordt aangeboden op 14 maanden en 9 jaar. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 2 jaar (BMR-1, basisimmuun), 10 jaar (BMR-2, volledig afgesloten)."
+"A028772";"Meningokokken C volledig (2 jaar)";"Meningokokken C-ziekte (Men C) volledig afgesloten.
+
+Vaccinatie wordt aangeboden op 14 maanden. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 2 jaar (Men C, volledig afgesloten)."
+"A028773";"Pneumokokken volledig (2 jaar)";"Pneumokokkenziekte (Pneu) volledig afgesloten.
+
+Vaccinatie wordt aangeboden op 2, 4 en 11 maanden. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 1 jaar (Pneu-2/3, primaire serie, niet in de tabel getoond), 2 jaar (Pneu-3/4, volledig afgesloten). 
+
+Sinds november 2013 drie in plaats van vier vaccinaties."
+"A028774";"Hepatitis B volledig (2 jaar)";"Hepatitis B (Hep B).
+
+Vaccinatie wordt aangeboden op 2, 3, 4 en 11 maanden. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 2 jaar (Hep B-4, volledig afgesloten)."
+"A028775";"Volledige deelname RVP (2 jaar)";"Volledige deelname aan alle vaccinaties volgens het RVP vaccinatieschema wordt vastgesteld op de leeftijd van 2 jaar."
+"A041828";"Geen enkele vaccinatie (2 jaar)";"Geen van de vaccinaties volgens het RVP vaccinatieschema. Wordt vastgesteld op de leeftijd van 2 jaar"
+"A028776";"D(K)TP gerevaccineerd (5 jaar)";"Difterie, kinkhoest, tetanus, poliomyelitis (D(K)TP).
+
+Vaccinatie wordt aangeboden op 2, 3, 4 en 11 maanden, 4 jaar en 9 jaar. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 1 jaar (DKTP-3, primaire serie, niet in deze tabel getoond), 2 jaar (DKTP-4, basisimmuun), 5 jaar (DKTP-5, gerevaccineerd of voldoende beschermd*), 10 jaar (DTP-6, volledig afgesloten). 
+
+*In deze tabel wordt op vijfjarige leeftijd tot 2014 de vaccinatietoestand 'gerevaccineerd' en vanaf 2014 de toestand 'voldoende beschermd' vastgesteld. Voldoende beschermd is de som van het aantal gerevaccineerde kinderen en het aantal kinderen dat basisimmuniteit pas bereikt op de leeftijd van 2-5 jaar en daarom niet in aanmerking komt voor revaccinatie. Voldoende beschermd is een fractie hoger dan alleen gerevaccineerd en kan dus niet onderling vergeleken worden."
+"A028777";"D(K)TP voldoende beschermd (5 jaar)";"Difterie, kinkhoest, tetanus, poliomyelitis (D(K)TP).
+
+Vaccinatie wordt aangeboden op 2, 3, 4 en 11 maanden, 4 jaar en 9 jaar. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 1 jaar (DKTP-3, primaire serie, niet in deze tabel getoond), 2 jaar (DKTP-4, basisimmuun), 5 jaar (DKTP-5, gerevaccineerd of voldoende beschermd*), 10 jaar (DTP-6, volledig afgesloten). 
+
+*In deze tabel wordt op vijfjarige leeftijd tot 2014 de vaccinatietoestand 'gerevaccineerd' en vanaf 2014 de toestand 'voldoende beschermd' vastgesteld. Voldoende beschermd is de som van het aantal gerevaccineerde kinderen en het aantal kinderen dat basisimmuniteit pas bereikt op de leeftijd van 2-5 jaar en daarom niet in aanmerking komt voor revaccinatie. Voldoende beschermd is een fractie hoger dan alleen gerevaccineerd en kan dus niet onderling vergeleken worden."
+"A028778";"D(K)TP volledig (10 jaar)";"Difterie, kinkhoest, tetanus, poliomyelitis (D(K)TP).
+
+Vaccinatie wordt aangeboden op 2, 3, 4 en 11 maanden, 4 jaar en 9 jaar. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 1 jaar (DKTP-3, primaire serie, niet in deze tabel getoond), 2 jaar (DKTP-4, basisimmuun), 5 jaar (DKTP-5, gerevaccineerd of voldoende beschermd*), 10 jaar (DTP-6, volledig afgesloten). 
+
+*In deze tabel wordt op vijfjarige leeftijd tot 2014 de vaccinatietoestand 'gerevaccineerd' en vanaf 2014 de toestand 'voldoende beschermd' vastgesteld. Voldoende beschermd is de som van het aantal gerevaccineerde kinderen en het aantal kinderen dat basisimmuniteit pas bereikt op de leeftijd van 2-5 jaar en daarom niet in aanmerking komt voor revaccinatie. Voldoende beschermd is een fractie hoger dan alleen gerevaccineerd en kan dus niet onderling vergeleken worden."
+"A028779";"BMR volledig (10 jaar)";"Bof, mazelen, rodehond (BMR).
+
+Vaccinatie wordt aangeboden op 14 maanden en 9 jaar. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 2 jaar (BMR-1, basisimmuun), 10 jaar (BMR-2, volledig afgesloten)."
+"A028780";"HPV volledig (14 jaar)";"Baarmoederhalskanker veroorzaakt door het humaan papillomavirus (HPV).
+
+Vaccinatie (twee doses) wordt aangeboden op 12 jaar. 
+
+De vaccinatiegraad wordt vastgesteld op de leeftijd van 14 jaar (HPV-2/3, volledig afgesloten). 
+
+Sinds januari 2014 twee in plaats van drie vaccinaties voor meisjes onder 15 jaar."
+"Regio"
+Key;Title;Description
+"NL01  ";"Nederland";""
+"GM1680";"Aa en Hunze";"Ontstaan per 01-01-1998"
+"GM0358";"Aalsmeer";"Begindatum voor 1830"
+"GM0197";"Aalten";"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM0059";"Achtkarspelen";"Begindatum voor 1830"
+"GM0482";"Alblasserdam";"Begindatum voor 1830"
+"GM0613";"Albrandswaard";"Ontstaan per 01-01-1985"
+"GM0361";"Alkmaar";"Gemeentelijke herindeling per 01-01-2015
+Begindatum voor 1830"
+"GM0141";"Almelo";"Begindatum 01-12-1913"
+"GM0034";"Almere";"Ontstaan per 01-01-1984"
+"GM0484";"Alphen aan den Rijn";"Gemeentelijke herindeling per 01-01-2014
+Naamswijziging per 01-01-1918"
+"GM1723";"Alphen-Chaam";"Ontstaan per 01-01-1997"
+"GM1959";"Altena";"Ontstaan per 01-01-2019"
+"GM0060";"Ameland";"Begindatum voor 1830"
+"GM0307";"Amersfoort";"Begindatum voor 1830"
+"GM0362";"Amstelveen";"Naamswijziging per 01-01-1964"
+"GM0363";"Amsterdam";"Begindatum voor 1830"
+"GM0200";"Apeldoorn";"Begindatum voor 1830"
+"GM0003";"Appingedam";"Begindatum voor 1830"
+"GM0202";"Arnhem";"Begindatum voor 1830"
+"GM0106";"Assen";"Begindatum voor 1830"
+"GM0743";"Asten";"Begindatum voor 1830"
+"GM0744";"Baarle-Nassau";"Begindatum voor 1830"
+"GM0308";"Baarn";"Begindatum voor 1830"
+"GM0489";"Barendrecht";"Naamswijziging per 10-12-1886"
+"GM0203";"Barneveld";"Begindatum voor 1830"
+"GM0888";"Beek (L.)";"Begindatum 02-01-1839"
+"GM1954";"Beekdaelen";"Ontstaan per 01-01-2019"
+"GM0370";"Beemster";"Begindatum voor 1830"
+"GM0889";"Beesel";"Begindatum 02-01-1839"
+"GM1945";"Berg en Dal";"Naamswijziging per 01-01-2016"
+"GM1724";"Bergeijk";"Naamswijziging per 25-09-1998"
+"GM0893";"Bergen (L.)";"Begindatum 02-01-1839"
+"GM0373";"Bergen (NH.)";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0748";"Bergen op Zoom";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM1859";"Berkelland";"Ontstaan per 01-01-2005"
+"GM1721";"Bernheze";"Naamswijziging per 28-01-1995"
+"GM0753";"Best";"Begindatum voor 1830"
+"GM0209";"Beuningen";"Begindatum voor 1830"
+"GM0375";"Beverwijk";"Begindatum voor 1830"
+"GM0310";"De Bilt";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM1728";"Bladel";"Ontstaan per 01-01-1997"
+"GM0376";"Blaricum";"Begindatum voor 1830"
+"GM0377";"Bloemendaal";"Gemeentelijke herindeling per 01-01-2009
+Begindatum voor 1830"
+"GM1901";"Bodegraven-Reeuwijk";"Ontstaan per 01-01-2011"
+"GM0755";"Boekel";"Begindatum voor 1830"
+"GM1681";"Borger-Odoorn";"Ontstaan per 01-01-1998"
+"GM0147";"Borne";"Begindatum voor 1830"
+"GM0654";"Borsele";"Naamswijziging per 01-01-1970"
+"GM0756";"Boxmeer";"Gemeentelijke herindeling per 01-01-1998
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+"GM0757";"Boxtel";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0758";"Breda";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0501";"Brielle";"Begindatum voor 1830"
+"GM1876";"Bronckhorst";"Ontstaan per 01-01-2005"
+"GM0213";"Brummen";"Begindatum voor 1830"
+"GM0899";"Brunssum";"Begindatum 02-01-1839"
+"GM0312";"Bunnik";"Begindatum voor 1830"
+"GM0313";"Bunschoten";"Begindatum voor 1830"
+"GM0214";"Buren";"Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+"GM0502";"Capelle aan den IJssel";"Begindatum voor 1830"
+"GM0383";"Castricum";"Gemeentelijke herindeling per 01-01-2002
+Begindatum voor 1830"
+"GM0109";"Coevorden";"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+"GM1706";"Cranendonck";"Naamswijziging per 28-01-1998"
+"GM1684";"Cuijk";"Ontstaan per 01-01-1994"
+"GM0216";"Culemborg";"Begindatum voor 1830"
+"GM0148";"Dalfsen";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM1891";"Dantumadiel";"Naamswijziging per 01-01-2009"
+"GM0503";"Delft";"Begindatum voor 1830"
+"GM0010";"Delfzijl";"Begindatum voor 1830"
+"GM0762";"Deurne";"Naamswijziging per 01-01-1926"
+"GM0150";"Deventer";"Gemeentelijke herindeling per 01-01-2005
+Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+"GM0384";"Diemen";"Begindatum voor 1830"
+"GM1774";"Dinkelland";"Naamswijziging per 01-06-2002"
+"GM0221";"Doesburg";"Begindatum voor 1830"
+"GM0222";"Doetinchem";"Gemeentelijke herindeling per 01-01-2005
+Begindatum 01-01-1920"
+"GM0766";"Dongen";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0505";"Dordrecht";"Begindatum voor 1830"
+"GM0498";"Drechterland";"Gemeentelijke herindeling per 01-01-2006
+Naamswijziging per 01-01-1980"
+"GM1719";"Drimmelen";"Naamswijziging per 25-04-1998"
+"GM0303";"Dronten";"Ontstaan per 01-01-1972"
+"GM0225";"Druten";"Begindatum voor 1830"
+"GM0226";"Duiven";"Begindatum voor 1830"
+"GM1711";"Echt-Susteren";"Ontstaan per 01-01-2003"
+"GM0385";"Edam-Volendam";"Gemeentelijke herindeling per 01-01-2016
+Naamswijziging per 01-01-1975"
+"GM0228";"Ede";"Begindatum voor 1830"
+"GM0317";"Eemnes";"Begindatum voor 1830"
+"GM0770";"Eersel";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM1903";"Eijsden-Margraten";"Ontstaan per 01-01-2011"
+"GM0772";"Eindhoven";"Begindatum voor 1830"
+"GM0230";"Elburg";"Begindatum voor 1830"
+"GM0114";"Emmen";"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+"GM0388";"Enkhuizen";"Begindatum voor 1830"
+"GM0153";"Enschede";"Begindatum voor 1830"
+"GM0232";"Epe";"Begindatum voor 1830"
+"GM0233";"Ermelo";"Begindatum voor 1830"
+"GM0777";"Etten-Leur";"Naamswijziging per 01-01-1968"
+"GM1940";"De Fryske Marren";"Naamswijziging per 01-07-2015"
+"GM0779";"Geertruidenberg";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM1771";"Geldrop-Mierlo";"Ontstaan per 01-01-2004"
+"GM1652";"Gemert-Bakel";"Ontstaan per 01-01-1997"
+"GM0907";"Gennep";"Begindatum 02-01-1839"
+"GM0784";"Gilze en Rijen";"Begindatum voor 1830"
+"GM1924";"Goeree-Overflakkee";"Ontstaan per 01-01-2013"
+"GM0664";"Goes";"Begindatum voor 1830"
+"GM0785";"Goirle";"Begindatum voor 1830"
+"GM1942";"Gooise Meren";"Ontstaan per 01-01-2016"
+"GM0512";"Gorinchem";"Begindatum voor 1830"
+"GM0513";"Gouda";"Begindatum voor 1830"
+"GM0786";"Grave";"Begindatum voor 1830"
+"GM0518";"'s-Gravenhage (gemeente)";"Begindatum voor 1830"
+"GM0014";"Groningen (gemeente)";"Begindatum voor 1830"
+"GM1729";"Gulpen-Wittem";"Ontstaan per 01-01-1999"
+"GM0158";"Haaksbergen";"Begindatum voor 1830"
+"GM0788";"Haaren";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0392";"Haarlem";"Begindatum voor 1830"
+"GM0394";"Haarlemmermeer";"Begindatum 16-11-1855"
+"GM1655";"Halderberge";"Ontstaan per 01-01-1997"
+"GM0160";"Hardenberg";"Gemeentelijke herindeling per 01-01-2001
+Ontstaan per 01-05-1941"
+"GM0243";"Harderwijk";"Begindatum voor 1830"
+"GM0523";"Hardinxveld-Giessendam";"Ontstaan per 01-01-1957"
+"GM0072";"Harlingen";"Begindatum voor 1830"
+"GM0244";"Hattem";"Begindatum voor 1830"
+"GM0396";"Heemskerk";"Begindatum voor 1830"
+"GM0397";"Heemstede";"Begindatum voor 1830"
+"GM0246";"Heerde";"Begindatum voor 1830"
+"GM0074";"Heerenveen";"Gemeentelijke herindeling per 01-01-2014
+Begindatum 01-07-1934"
+"GM0398";"Heerhugowaard";"Begindatum voor 1830"
+"GM0917";"Heerlen";"Begindatum 02-01-1839"
+"GM1658";"Heeze-Leende";"Ontstaan per 01-01-1997"
+"GM0399";"Heiloo";"Begindatum voor 1830"
+"GM0400";"Den Helder";"Begindatum voor 1830"
+"GM0163";"Hellendoorn";"Begindatum voor 1830"
+"GM0530";"Hellevoetsluis";"Begindatum voor 1830"
+"GM0794";"Helmond";"Begindatum voor 1830"
+"GM0531";"Hendrik-Ido-Ambacht";"Begindatum voor 1830"
+"GM0164";"Hengelo (O.)";"Begindatum voor 1830"
+"GM0796";"'s-Hertogenbosch";"Gemeentelijke herindeling per 01-01-2015
+Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0252";"Heumen";"Begindatum voor 1830"
+"GM0797";"Heusden";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0534";"Hillegom";"Begindatum voor 1830"
+"GM0798";"Hilvarenbeek";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0402";"Hilversum";"Begindatum voor 1830"
+"GM1963";"Hoeksche Waard";"Ontstaan per 01-01-2019"
+"GM1735";"Hof van Twente";"Ontstaan per 01-01-2001"
+"GM1966";"Het Hogeland";"Ontstaan per 01-01-2019"
+"GM1911";"Hollands Kroon";"Ontstaan per 01-01-2012"
+"GM0118";"Hoogeveen";"Begindatum voor 1830"
+"GM0405";"Hoorn";"Begindatum voor 1830"
+"GM1507";"Horst aan de Maas";"Gemeentelijke herindeling per 01-01-2010
+Ontstaan per 01-01-2001"
+"GM0321";"Houten";"Begindatum voor 1830"
+"GM0406";"Huizen";"Begindatum voor 1830"
+"GM0677";"Hulst";"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+"GM0353";"IJsselstein";"Begindatum voor 1830"
+"GM1884";"Kaag en Braassem";"Ontstaan per 01-01-2009"
+"GM0166";"Kampen";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0678";"Kapelle";"Begindatum voor 1830"
+"GM0537";"Katwijk";"Gemeentelijke herindeling per 01-01-2006
+Begindatum voor 1830"
+"GM0928";"Kerkrade";"Begindatum 02-01-1839"
+"GM1598";"Koggenland";"Ontstaan per 01-01-2007"
+"GM0542";"Krimpen aan den IJssel";"Begindatum voor 1830"
+"GM1931";"Krimpenerwaard";"Ontstaan per 01-01-2015"
+"GM1659";"Laarbeek";"Ontstaan per 01-01-1997"
+"GM1685";"Landerd";"Ontstaan per 01-01-1994"
+"GM0882";"Landgraaf";"Ontstaan per 01-01-1982"
+"GM0415";"Landsmeer";"Gemeentelijke herindeling per 01-01-1991
+Begindatum voor 1830"
+"GM0416";"Langedijk";"Ontstaan per 01-08-1941"
+"GM1621";"Lansingerland";"Ontstaan per 01-01-2007"
+"GM0417";"Laren (NH.)";"Begindatum voor 1830"
+"GM0080";"Leeuwarden";"Gemeentelijke herindeling per 01-01-2014
+Begindatum voor 1830"
+"GM0546";"Leiden";"Begindatum voor 1830"
+"GM0547";"Leiderdorp";"Begindatum voor 1830"
+"GM1916";"Leidschendam-Voorburg";"Ontstaan per 01-01-2002"
+"GM0995";"Lelystad";"Ontstaan per 01-01-1980"
+"GM1640";"Leudal";"Ontstaan per 01-01-2007"
+"GM0327";"Leusden";"Begindatum voor 1830"
+"GM1705";"Lingewaard";"Naamswijziging per 01-01-2003"
+"GM0553";"Lisse";"Begindatum voor 1830"
+"GM0262";"Lochem";"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM0809";"Loon op Zand";"Begindatum voor 1830"
+"GM0331";"Lopik";"Begindatum voor 1830"
+"GM0024";"Loppersum";"Begindatum voor 1830"
+"GM0168";"Losser";"Begindatum voor 1830"
+"GM0263";"Maasdriel";"Gemeentelijke herindeling per 01-01-1999
+Naamswijziging per 01-08-1944"
+"GM1641";"Maasgouw";"Ontstaan per 01-01-2007"
+"GM0556";"Maassluis";"Begindatum voor 1830"
+"GM0935";"Maastricht";"Begindatum voor 1830"
+"GM0420";"Medemblik";"Gemeentelijke herindeling per 01-01-2011
+Gemeentelijke herindeling per 01-01-2007
+Begindatum voor 1830"
+"GM0938";"Meerssen";"Begindatum 02-01-1839"
+"GM1948";"Meierijstad";"Ontstaan per 01-01-2017"
+"GM0119";"Meppel";"Gemeentelijke herindeling per 01-01-1998
+Begindatum voor 1830"
+"GM0687";"Middelburg (Z.)";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM1842";"Midden-Delfland";"Ontstaan per 01-01-2004"
+"GM1731";"Midden-Drenthe";"Naamswijziging per 01-01-2000"
+"GM1952";"Midden-Groningen";"Ontstaan per 01-01-2018"
+"GM0815";"Mill en Sint Hubert";"Begindatum voor 1830"
+"GM1709";"Moerdijk";"Naamswijziging per 04-04-1998"
+"GM1978";"Molenlanden";"Ontstaan per 01-01-2019"
+"GM1955";"Montferland";"Ontstaan per 01-01-2005"
+"GM0335";"Montfoort";"Begindatum voor 1830"
+"GM0944";"Mook en Middelaar";"In deze tabel valt de gemeente Mook en Middelaar (GM0944) onder de GGD Gelderland-Zuid (GG2014) en niet zoals gebruikelijk onder de GGD Limburg-Noord (GG6011).
+
+Begindatum 02-01-1839."
+"GM1740";"Neder-Betuwe";"Naamswijziging per 01-04-2003"
+"GM0946";"Nederweert";"Begindatum 02-01-1839"
+"GM0356";"Nieuwegein";"Ontstaan per 01-07-1971"
+"GM0569";"Nieuwkoop";"Gemeentelijke herindeling per 01-01-2007
+Begindatum voor 1830"
+"GM0267";"Nijkerk";"Gemeentelijke herindeling per 01-01-2000
+Begindatum voor 1830"
+"GM0268";"Nijmegen";"Begindatum voor 1830"
+"GM1930";"Nissewaard";"Ontstaan per 01-01-2015"
+"GM1970";"Noardeast-Fryslân";"Ontstaan per 01-01-2019"
+"GM1695";"Noord-Beveland";"Ontstaan per 01-01-1995"
+"GM1699";"Noordenveld";"Ontstaan per 01-01-1998"
+"GM0171";"Noordoostpolder";"Provinciale wijziging per 01-01-1986
+Naamswijziging per 01-07-1962"
+"GM0575";"Noordwijk";"Begindatum voor 1830"
+"GM0820";"Nuenen, Gerwen en Nederwetten";"Begindatum voor 1830"
+"GM0302";"Nunspeet";"Ontstaan per 01-01-1972"
+"GM0579";"Oegstgeest";"Begindatum voor 1830"
+"GM0823";"Oirschot";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0824";"Oisterwijk";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM1895";"Oldambt";"Ontstaan per 01-01-2010"
+"GM0269";"Oldebroek";"Begindatum voor 1830"
+"GM0173";"Oldenzaal";"Begindatum voor 1830"
+"GM1773";"Olst-Wijhe";"Naamswijziging per 26-03-2002"
+"GM0175";"Ommen";"Begindatum 01-05-1923"
+"GM1586";"Oost Gelre";"Naamswijziging per 19-05-2006"
+"GM0826";"Oosterhout";"Begindatum voor 1830"
+"GM0085";"Ooststellingwerf";"Begindatum voor 1830"
+"GM0431";"Oostzaan";"Begindatum voor 1830"
+"GM0432";"Opmeer";"Begindatum voor 1830"
+"GM0086";"Opsterland";"Begindatum voor 1830"
+"GM0828";"Oss";"Gemeentelijke herindeling per 01-01-2015
+Gemeentelijke herindeling per 01-01-2011
+Gemeentelijke herindeling per 01-01-2003
+Gemeentelijke herindeling per 01-01-1994
+Begindatum voor 1830"
+"GM1509";"Oude IJsselstreek";"Ontstaan per 01-01-2005"
+"GM0437";"Ouder-Amstel";"Begindatum voor 1830"
+"GM0589";"Oudewater";"Provinciale wijziging per 01-09-1970
+Begindatum voor 1830"
+"GM1734";"Overbetuwe";"Ontstaan per 01-01-2001"
+"GM0590";"Papendrecht";"Begindatum voor 1830"
+"GM1894";"Peel en Maas";"Ontstaan per 01-01-2010"
+"GM0765";"Pekela";"Ontstaan per 01-01-1990"
+"GM1926";"Pijnacker-Nootdorp";"Ontstaan per 01-01-2002"
+"GM0439";"Purmerend";"Begindatum voor 1830"
+"GM0273";"Putten";"Begindatum voor 1830"
+"GM0177";"Raalte";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM0703";"Reimerswaal";"Ontstaan per 01-01-1970"
+"GM0274";"Renkum";"Begindatum voor 1830"
+"GM0339";"Renswoude";"Begindatum voor 1830"
+"GM1667";"Reusel-De Mierden";"Ontstaan per 01-01-1997"
+"GM0275";"Rheden";"Begindatum voor 1830"
+"GM0340";"Rhenen";"Begindatum voor 1830"
+"GM0597";"Ridderkerk";"Begindatum voor 1830"
+"GM1742";"Rijssen-Holten";"Naamswijziging per 15-03-2003"
+"GM0603";"Rijswijk (ZH.)";"Begindatum voor 1830"
+"GM1669";"Roerdalen";"Gemeentelijke herindeling per 01-01-2007
+Naamswijziging per 01-01-1993"
+"GM0957";"Roermond";"Gemeentelijke herindeling per 01-01-2007
+Gemeentelijke herindeling per 01-01-1991
+Begindatum 02-01-1839"
+"GM0736";"De Ronde Venen";"Gemeentelijke herindeling per 01-01-2011
+Ontstaan per 01-01-1989"
+"GM1674";"Roosendaal";"Ontstaan per 01-01-1997"
+"GM0599";"Rotterdam";"Begindatum voor 1830"
+"GM0277";"Rozendaal";"Begindatum voor 1830"
+"GM0840";"Rucphen";"Begindatum voor 1830"
+"GM0441";"Schagen";"Gemeentelijke herindeling per 01-01-2013
+Begindatum voor 1830"
+"GM0279";"Scherpenzeel";"Begindatum voor 1830"
+"GM0606";"Schiedam";"Begindatum voor 1830"
+"GM0088";"Schiermonnikoog";"De cijfers van de gemeenten Vlieland en Schiermonnikoog zijn niet opgenomen vanwege onthullingsrisico door lage aantallen.
+
+Begindatum voor 1830"
+"GM1676";"Schouwen-Duiveland";"Ontstaan per 01-01-1997"
+"GM0965";"Simpelveld";"Begindatum 02-01-1839"
+"GM1702";"Sint Anthonis";"Naamswijziging per 04-07-1995"
+"GM0845";"Sint-Michielsgestel";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM1883";"Sittard-Geleen";"Ontstaan per 01-01-2001"
+"GM0610";"Sliedrecht";"Begindatum voor 1830"
+"GM1714";"Sluis";"Ontstaan per 01-01-2003"
+"GM0090";"Smallingerland";"Begindatum voor 1830"
+"GM0342";"Soest";"Begindatum voor 1830"
+"GM0847";"Someren";"Begindatum voor 1830"
+"GM0848";"Son en Breugel";"Begindatum voor 1830"
+"GM0037";"Stadskanaal";"Ontstaan per 01-01-1969"
+"GM0180";"Staphorst";"Begindatum voor 1830"
+"GM0532";"Stede Broec";"Ontstaan per 01-01-1979"
+"GM0851";"Steenbergen";"Gemeentelijke herindeling per 01-01-1997
+Naamswijziging per 25-06-1962"
+"GM1708";"Steenwijkerland";"Naamswijziging per 01-01-2003"
+"GM0971";"Stein (L.)";"Begindatum 02-01-1839"
+"GM1904";"Stichtse Vecht";"Ontstaan per 01-01-2011"
+"GM1900";"Súdwest-Fryslân";"Ontstaan per 01-01-2011"
+"GM0715";"Terneuzen";"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+"GM0093";"Terschelling";"Provinciale wijziging per 01-09-1942
+Begindatum voor 1830"
+"GM0448";"Texel";"Begindatum voor 1830"
+"GM1525";"Teylingen";"Ontstaan per 01-01-2006"
+"GM0716";"Tholen";"Gemeentelijke herindeling per 01-01-1995
+Begindatum voor 1830"
+"GM0281";"Tiel";"Begindatum voor 1830"
+"GM0855";"Tilburg";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0183";"Tubbergen";"Begindatum voor 1830"
+"GM1700";"Twenterand";"Naamswijziging per 01-06-2002"
+"GM1730";"Tynaarlo";"Naamswijziging per 01-12-1999"
+"GM0737";"Tytsjerksteradiel";"Naamswijziging per 01-01-1989"
+"GM0856";"Uden";"Begindatum voor 1830"
+"GM0450";"Uitgeest";"Begindatum voor 1830"
+"GM0451";"Uithoorn";"Begindatum voor 1830"
+"GM0184";"Urk";"Provinciale wijziging per 01-01-1986
+Begindatum voor 1830"
+"GM0344";"Utrecht (gemeente)";"Gemeentelijke herindeling per 01-01-2001
+Begindatum voor 1830"
+"GM1581";"Utrechtse Heuvelrug";"Ontstaan per 01-01-2006"
+"GM0981";"Vaals";"Begindatum 02-01-1839"
+"GM0994";"Valkenburg aan de Geul";"Ontstaan per 01-01-1982"
+"GM0858";"Valkenswaard";"Begindatum voor 1830"
+"GM0047";"Veendam";"Begindatum voor 1830"
+"GM0345";"Veenendaal";"Begindatum voor 1830"
+"GM0717";"Veere";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0861";"Veldhoven";"Naamswijziging per 01-05-1921"
+"GM0453";"Velsen";"Begindatum voor 1830"
+"GM0983";"Venlo";"Gemeentelijke herindeling per 01-01-2010
+Gemeentelijke herindeling per 01-01-2001
+Begindatum 02-01-1839"
+"GM0984";"Venray";"Begindatum 02-01-1839"
+"GM1961";"Vijfheerenlanden";"Ontstaan per 01-01-2019"
+"GM0622";"Vlaardingen";"Begindatum voor 1830"
+"GM0096";"Vlieland";"De cijfers van de gemeenten Vlieland en Schiermonnikoog zijn niet opgenomen vanwege onthullingsrisico door lage aantallen.
+
+Provinciale wijziging per 01-09-1942
+Begindatum voor 1830"
+"GM0718";"Vlissingen";"Begindatum voor 1830"
+"GM0986";"Voerendaal";"Begindatum 02-01-1839"
+"GM0626";"Voorschoten";"Begindatum voor 1830"
+"GM0285";"Voorst";"Begindatum voor 1830"
+"GM0865";"Vught";"Begindatum voor 1830"
+"GM1949";"Waadhoeke";"Ontstaan per 01-01-2018"
+"GM0866";"Waalre";"Begindatum voor 1830"
+"GM0867";"Waalwijk";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0627";"Waddinxveen";"Begindatum 01-07-1870"
+"GM0289";"Wageningen";"Begindatum voor 1830"
+"GM0629";"Wassenaar";"Begindatum voor 1830"
+"GM0852";"Waterland";"Ontstaan per 01-01-1991"
+"GM0988";"Weert";"Gemeentelijke herindeling per 01-01-1998
+Begindatum 02-01-1839"
+"GM0457";"Weesp";"Begindatum voor 1830"
+"GM1960";"West Betuwe";"Ontstaan per 01-01-2019"
+"GM0668";"West Maas en Waal";"Ontstaan per 01-01-2018"
+"GM1969";"Westerkwartier";"Ontstaan per 01-01-2019"
+"GM1701";"Westerveld";"Ontstaan per 01-01-1998"
+"GM0293";"Westervoort";"Begindatum voor 1830"
+"GM1950";"Westerwolde";"Ontstaan per 01-01-2018"
+"GM1783";"Westland";"Ontstaan per 01-01-2004"
+"GM0098";"Weststellingwerf";"Begindatum voor 1830"
+"GM0614";"Westvoorne";"Ontstaan per 01-01-1980"
+"GM0189";"Wierden";"Begindatum voor 1830"
+"GM0296";"Wijchen";"Begindatum voor 1830"
+"GM1696";"Wijdemeren";"Ontstaan per 01-01-2002"
+"GM0352";"Wijk bij Duurstede";"Gemeentelijke herindeling per 01-01-1996
+Begindatum voor 1830"
+"GM0294";"Winterswijk";"Begindatum voor 1830"
+"GM0873";"Woensdrecht";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0632";"Woerden";"Gemeentelijke herindeling per 01-01-2001
+Provinciale wijziging per 01-01-1989
+Begindatum voor 1830"
+"GM1690";"De Wolden";"Ontstaan per 01-01-2018"
+"GM0880";"Wormerland";"Ontstaan per 01-01-1991"
+"GM0351";"Woudenberg";"Begindatum voor 1830"
+"GM0479";"Zaanstad";"Ontstaan per 01-01-1974"
+"GM0297";"Zaltbommel";"Gemeentelijke herindeling per 01-01-1999
+Begindatum voor 1830"
+"GM0473";"Zandvoort";"Begindatum voor 1830"
+"GM0050";"Zeewolde";"Ontstaan per 01-01-1984"
+"GM0355";"Zeist";"Begindatum voor 1830"
+"GM0299";"Zevenaar";"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM0637";"Zoetermeer";"Begindatum voor 1830"
+"GM0638";"Zoeterwoude";"Begindatum voor 1830"
+"GM1892";"Zuidplas";"Ontstaan per 01-01-2010"
+"GM0879";"Zundert";"Gemeentelijke herindeling per 01-01-1997
+Begindatum voor 1830"
+"GM0301";"Zutphen";"Gemeentelijke herindeling per 01-01-2005
+Begindatum voor 1830"
+"GM1896";"Zwartewaterland";"Ontstaan per 01-01-2001"
+"GM0642";"Zwijndrecht";"Gemeentelijke herindeling per 01-01-2003
+Begindatum voor 1830"
+"GM0193";"Zwolle";"Begindatum voor 1830"
+"GG0111";"GGD Groningen";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG0706";"GGD Drenthe";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG1009";"GGD IJsselland";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG1106";"GGD Regio Twente";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG1413";"GGD Noord- en Oost-Gelderland";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG1906";"Hulpverlening Gelderland-Midden";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG2014";"GGD Gelderland-Zuid";"GGD-regio. In deze tabel valt de gemeente Mook en Middelaar (GM0944) onder de GGD Gelderland-Zuid (GG2014) en niet zoals gebruikelijk onder de GGD Limburg-Noord (GG6011).
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG2209";"GGD Flevoland";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG2514";"GGD Regio Utrecht";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG2707";"GGD Hollands-Noorden";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG3109";"GGD Kennemerland";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG3406";"GGD Amsterdam";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG3606";"GGD Gooi en Vechtstreek";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG4506";"GGD Hollands-Midden";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG4607";"GGD Rotterdam-Rijnmond";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG4816";"Dienst Gezondheid & Jeugd ZHZ";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG5006";"GGD Zeeland";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG5206";"GGD West-Brabant";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG5406";"GGD Hart voor Brabant";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG5608";"GGD Brabant-Zuidoost";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG6011";"GGD Limburg-Noord";"GGD-regio. In deze tabel valt de gemeente Mook en Middelaar (GM0944) onder de GGD Gelderland-Zuid (GG2014) en niet zoals gebruikelijk onder de GGD Limburg-Noord (GG6011).
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG6106";"GGD Zuid-Limburg";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG7014";"GGD Haaglanden";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG7206";"GGD Fryslân";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"GG7306";"GGD Zaanstreek/Waterland";"GGD-regio
+
+Een in 1990 door het toenmalig Ministerie van Welzijn, Volksgezondheid en Cultuur vastgestelde indeling in samenwerkingsgebieden voor de gemeentelijke gezondheidsdiensten (GGD). Deze indeling is in de loop der jaren verschillende keren gewijzigd. De indeling is voor het laatst herzien op 1 januari 2016 en telt vanaf die datum 25 gebieden."
+"Perioden"
+Key;Title;Description;Status
+"2006JJ00";"2006";"Geboortecohort: 
+
+Zuigelingen 2003 
+Kleuters 2000 
+Schoolkinderen 1995 
+";"Definitief"
+"2007JJ00";"2007";"Geboortecohort: 
+
+Zuigelingen 2004 
+Kleuters 2001 
+Schoolkinderen 1996 
+";"Definitief"
+"2008JJ00";"2008";"Geboortecohort: 
+
+Zuigelingen 2005 
+Kleuters 2002 
+Schoolkinderen 1997 
+";"Definitief"
+"2009JJ00";"2009";"Geboortecohort: 
+
+Zuigelingen 2006 
+Kleuters 2003 
+Schoolkinderen 1998 
+";"Definitief"
+"2010JJ00";"2010";"Geboortecohort: 
+
+Zuigelingen 2007 
+Kleuters 2004 
+Schoolkinderen 1999 
+";"Definitief"
+"2011JJ00";"2011";"Geboortecohort: 
+
+Zuigelingen 2008 
+Kleuters 2005 
+Schoolkinderen 2000 
+Adolescente meisjes 1993 t/m 1996 (in 2011 omvat de populatie voor de vaccinatie HPV volledig afgesloten de vier geboortecohorten (1993 t/m 1996) die in aanmerking kwamen voor de HPV inhaalcampagne, en dus niet alleen het cohort 1996). 
+";"Definitief"
+"2012JJ00";"2012";"Geboortecohort: 
+
+Zuigelingen 2009 
+Kleuters 2006 
+Schoolkinderen 2001 
+Adolescente meisjes 1997 
+";"Definitief"
+"2013JJ00";"2013";"Geboortecohort: 
+
+Zuigelingen 2010 
+Kleuters 2007 
+Schoolkinderen 2002 
+Adolescente meisjes 1998 
+";"Definitief"
+"2014JJ00";"2014";"Geboortecohort: 
+
+Zuigelingen 2011 
+Kleuters 2008 
+Schoolkinderen 2003 
+Adolescente meisjes 1999 
+";"Definitief"
+"2015JJ00";"2015";"Geboortecohort: 
+
+Zuigelingen 2012 
+Kleuters 2009 
+Schoolkinderen 2004 
+Adolescente meisjes 2000 
+";"Definitief"
+"2016JJ00";"2016";"Geboortecohort: 
+
+Zuigelingen 2013 
+Kleuters 2010 
+Schoolkinderen 2005 
+Adolescente meisjes 2001 
+";"Definitief"
+"2017JJ00";"2017";"Geboortecohort: 
+
+Zuigelingen 2014 
+Kleuters 2011 
+Schoolkinderen 2006 
+Adolescente meisjes 2002 
+";"Definitief"
+"2018JJ00";"2018";;"Definitief"
+"2019JJ00";"2019";;"Definitief"

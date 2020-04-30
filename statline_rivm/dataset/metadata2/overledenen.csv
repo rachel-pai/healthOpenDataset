@@ -1,0 +1,327 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Overledenen; doodsoorzaak (diagnose-indeling VTV), leeftijd, geslacht";"Overledenen; doodsoorzaak (VTV)";"50039NED";"Aantal overledenen, overledenen per 100.000
+Geslacht, leeftijd, doodsoorzaak";"2018-11-16T02:00:00";"Herontwerp";"De codes van de doodsoorzaken sluiten beter aan op de StatLine vijver (met name voor de Beldo hoofdgroepen).";"nl";"RIVM";"Perjaar";"1950-2017";"
+De cijfers in deze tabel zijn afkomstig uit de Doodsoorzakenstatistiek van het Centraal Bureau voor de Statistiek (CBS) in combinatie met de Volksgezondheid Toekomstverkenning (VTV) ziekten van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM). Deze tabel is gemaakt voor de website Volksgezondheidenzorg.info van het RIVM en bevat gegevens over het aantal overledenen (absoluut en per 100.000) naar geslacht, leeftijd en doodsoorzaak. De cijfers geven een beeld van de sterfte aan ziekten uit de selectie van VTV ziekten (versie 2015) aangevuld met de sterfte per ICD-hoofdgroep. In alle gevallen kunnen de doodsoorzaken direct gerelateerd worden aan de ICD10 classificatie (op het niveau van drie-teken ICD10 categorieën). Voor een betere vergelijkbaarheid in de tijd is naast het bruto aantal overledenen ook het aantal overledenen gestandaardiseerd naar de bevolkingssamenstelling van 2010 opgenomen.
+
+Gegevens beschikbaar vanaf: 
+1950 (CBS Doodsoorzakenstatistiek) en 1996 (VTV ziekten) 
+
+Status van de cijfers: 
+Tot en met 2016 definitief, 2017 voorlopig.
+
+Wijzigingen per 16-11-2018:  
+De jaren 2016 en 2017 zijn toegevoegd, het jaar 2015 is nu gebaseerd op de definitieve cijfers.
+
+Wanneer komen er nieuwe cijfers?
+Definitieve cijfers in het eerste of tweede kwartaal van het tweede jaar na afloop van het verslagjaar.
+
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+De cijfers in deze tabel zijn afkomstig uit de Doodsoorzakenstatistiek van het Centraal Bureau voor de Statistiek (CBS) in combinatie met de Volksgezondheid Toekomstverkenning (VTV) ziekten van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM). Deze tabel is gemaakt voor de website Volksgezondheidenzorg.info van het RIVM en bevat gegevens over het aantal overledenen (absoluut en per 100.000) naar geslacht, leeftijd en doodsoorzaak. De cijfers geven een beeld van de sterfte aan ziekten uit de selectie van VTV ziekten (versie 2015) aangevuld met de sterfte per ICD-hoofdgroep. In alle gevallen kunnen de doodsoorzaken direct gerelateerd worden aan de ICD10 classificatie (op het niveau van drie-teken ICD10 categorieën). Voor een betere vergelijkbaarheid in de tijd is naast het bruto aantal overledenen ook het aantal overledenen gestandaardiseerd naar de bevolkingssamenstelling van 2010 opgenomen.
+
+Gegevens beschikbaar vanaf: 
+1950 (CBS Doodsoorzakenstatistiek) en 1996 (VTV ziekten) 
+
+Status van de cijfers: 
+Tot en met 2016 definitief, 2017 voorlopig.
+
+Wijzigingen per 16-11-2018:  
+De jaren 2016 en 2017 zijn toegevoegd, het jaar 2015 is nu gebaseerd op de definitieve cijfers.
+
+Wanneer komen er nieuwe cijfers?
+Definitieve cijfers in het eerste of tweede kwartaal van het tweede jaar na afloop van het verslagjaar.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities: 
+
+Doodsoorzaken
+De onderliggende/primaire doodsoorzaak is de ziekte of de gebeurtenis waarmee de aaneenschakeling van gebeurtenissen die tot de dood leidde, startte. 
+De gebruikte doodsoorzaakcodes zijn afkomstig uit de lijst van 'drie-teken categorieën' van de International Statistical Classification of Diseases and Related Health Problems (ICD, 10e revisie) van de World Health Organization (WHO).
+
+Leeftijd
+Leeftijd op het moment van overlijden.
+
+Gestandaardiseerde leeftijd
+Om te corrigeren voor de invloed op overlijden van een veranderende geslachts- en leeftijdssamenstelling over een langere periode is voor dit cijfer bij het berekenen van het aantal overledenen de bevolkingssamenstelling van het jaar 2010 als referentie genomen (op basis van 21 leeftijdsklassen: 0, 1-4, 5-9, ..., 90-94 en 95+).
+
+Verklaring van symbolen:
+
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+* : voorlopige cijfers
+** : nader voorlopige cijfers
+
+Cijfers:
+Sommige ziekten uit de selectie van VTV-ziekten bevatten oorspronkelijk ook aandoeningen gedefinieerd op ICD10 vierpositie niveau. Omdat gegevens op dit detailniveau niet beschikbaar zijn worde bij de betreffende ziekten alleen de aandoeningen op ICD10 driepositie meegenomen.
+
+De VTV-ziekten zijn zo veel mogelijk onder de relevante ICD-hoofdgroepen geplaatst. In enkele gevallen bevatten VTV-ziekten ook ICD10-codes die niet bij de betreffende hoofdgroep horen. Dit is aangegeven in de beschrijving van die VTV-ziekten.
+
+VTV-ziekten kunnen qua samenstelling van ICD10-codes afwijken van gelijknamige of bijna gelijknamige doodsoorzaken in de CBS StatLine tabel /""/Overledenen; belangrijke doodsoorzaken (korte lijst), leeftijd, geslacht/""/. In de beschrijving staan de gebruikte ICD10-codes, het verdient aanbeveling hier goed op te letten.
+
+CBS is in het statistiekjaar 2013 overgestapt op het gebruik van internationale software voor het automatisch coderen van de doodsoorzaken. Hiermee zijn de cijfers beter reproduceerbaar en internationaal vergelijkbaar. Wel zijn er enkele forse verschuivingen te zien in de doodsoorzaken. 
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+<a 
+Href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7052_95/table'>Overledenen; belangrijke doodsoorzaken (korte lijst), leeftijd, geslacht</a>
+
+<a 
+Href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/7233/table'>Overledenen; doodsoorzaak (uitgebreide lijst), leeftijd, geslacht</a>
+
+Themapagina met algemene informatie over doodsoorzaken: <a 
+href='http://www.cbs.nl/nl-NL/menu/themas/gezondheid-welzijn/nieuws/default.htm'>Gezondheid en welzijn</a>.
+
+
+4. BRONNEN EN METHODEN
+
+Bronnen: 
+
+Organisatie die de gegevens uit deze tabel levert:
+CBS: <a href='http://www.cbs.nl/'>http://www.cbs.nl/</a>
+RIVM: <a href='http://www.rivm.nl/'>http://www.rivm.nl/</a> 
+
+Website van de gegevensbron waar de cijfers in deze tabel vandaan komen:
+Onderzoek beschrijving doodsoorzakenstatistiek (waar de cijfers in deze tabel van afgeleid zijn): <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/doodsoorzakenstatistiek'>Doodsoorzakenstatistiek</a>
+
+Rapport selectie van ziekten VTV (niet de selectie versie 2015, maar de voorgaande versie): <a 
+href='https://www.volksgezondheidenzorg.info/selectie-van-ziekten'>Selectie van ziekten</a>.
+
+Data verstrekker:
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+
+Informatie over de gegevensbron op Zorggegevens.nl:
+<a href='https://bronnen.zorggegevens.nl/Bron?naam=Doodsoorzakenstatistiek'>Link Zorggegevens</a>
+
+Methoden:
+
+Beschrijving:
+De cijfers in deze tabel zijn gebaseerd op de Doodsoorzakenstatistiek (op het niveau van drie-teken ICD10 categorieën) van het Centraal Bureau voor de Statistiek (CBS). Voor de Volksgezondheid Toekomstverkenning (VTV) diagnosegroepen oftewel ziekten zijn twee bewerkingsstappen gemaakt. 
+Ten eerste zijn verschillende ICD10-codes bij elkaar gevoegd zodat aangesloten wordt bij de indeling van de selectie van VTV-ziekten en ICD-Hoofdgroepen. De indeling van de VTV-ziekten is conform de gebruikte codering op de website www.volksgezondheidenzorg.info met als verschil dat alle ICD10-codes van vierpositie niveau zijn weg gelaten. De indeling van de ICD-Hoofgroepen is conform de indeling van het CBS. 
+Ten tweede zijn overledenen per 100.000 cijfers berekend (naar leeftijd en geslacht) met de middenjaarschatting van de bevolking gebaseerd op de bevolkingscijfers van het CBS. Er is ook naar 2010 gestandaardiseerd (naar leeftijd) om trends in de tijd te kunnen beschrijven. 
+
+Doel:
+Inzicht geven in het overlijden aan bepaalde ziekten en de trends die zich daar bij voordoen.
+
+
+5. MEER INFORMATIE
+
+Volksgezondheidenzorg.info
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM), Bilthoven
+<a href='https://volksgezondheidenzorg.info/contact'>Contactpagina Volksgezondheidenzorg.info</a>
+
+CC BY-SA 4.0 gelicenseerd. 
+<a href='http://creativecommons.org/licenses/by-sa/4.0/deed.nl'>Volledige licentietekst CC BY-SA 4.0</a>";"ts=1541767747402&graphtype=Table&r=Leeftijd,Doodsoorzaken&k=Topics,Perioden&t=Geslacht";"$filter=((Geslacht eq 'T001038')) and ((Leeftijd eq '10000') or (Leeftijd eq '10001')) and ((Doodsoorzaken eq 'T001440') or (Doodsoorzaken eq 'A045609') or (Doodsoorzaken eq 'A045615') or (Doodsoorzaken eq 'A045642') or (Doodsoorzaken eq 'A045650') or (Doodsoorzaken eq 'A045678') or (Doodsoorzaken eq 'A045687')) and ((Perioden eq '1950JJ00') or (Perioden eq '1960JJ00') or (Perioden eq '1970JJ00') or (Perioden eq '1980JJ00') or (Perioden eq '1990JJ00') or (Perioden eq '2000JJ00') or (Perioden eq '2010JJ00') or (Perioden eq '2017JJ00'))";"Table,Bar,Line";"Regulier";"Volksgezondheidenzorg.info, Rijksinstituut voor Volksgezondheid en Milieu (RIVM), Bilthoven";"2018-11-16T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Geslacht";"Geslacht";"";;;;;
+"1";"1";;"Dimension";"Leeftijd";"Leeftijd";"";;;;;
+"2";"2";;"Dimension";"Doodsoorzaken";"Doodsoorzaken";"";;;;;
+"3";"3";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"4";"4";;"Topic";"Overledenen_1";"Overledenen";;;"Long";"aantal";"0";"Missing"
+"5";"5";;"Topic";"OverledenenRelatief_2";"Overledenen relatief";"Overledenen per 100.000 inwoners.
+
+Het aantal inwoners in een jaar is gebaseerd op de gemiddelde bevolking in een jaar. Ook wel de middenjaarschatting genoemd: het gemiddelde van de som van het aantal inwoners in een jaar en het aantal inwoners van het volgende jaar (op 1 januari). Er is gerekend met 21 leeftijdsklassen (0, 1-4, 5-9, ..., 90-94 en 95+).";;"Double";"per 100.000 van de gemiddelde bevolking";"2";"Missing"
+"Geslacht"
+Key;Title;Description
+"T001038";"Totaal mannen en vrouwen";
+"3000   ";"Mannen";
+"4000   ";"Vrouwen";""
+"Leeftijd"
+Key;Title;Description
+"10000";"Totaal alle leeftijden";
+"10001";"Gestandaardiseerde leeftijd totaal 2010";"Gestandaardiseerde leeftijd: om te corrigeren voor de invloed op overlijden van een veranderende geslachts- en leeftijdssamenstelling over een langere periode is voor dit cijfer bij het berekenen van het aantal overledenen de bevolkingssamenstelling van het jaar 2010 als referentie genomen (op basis van 21 leeftijdsklassen: 0, 1-4, 5-9, ..., 90-94 en 95+)."
+"10010";"0 jaar";
+"22000";"95 jaar of ouder";
+"51300";"1 tot 5 jaar";""
+"70200";"5 tot 10 jaar";""
+"70300";"10 tot 15 jaar";""
+"70400";"15 tot 20 jaar";""
+"70500";"20 tot 25 jaar";""
+"70600";"25 tot 30 jaar";""
+"70700";"30 tot 35 jaar";""
+"70800";"35 tot 40 jaar";""
+"70900";"40 tot 45 jaar";""
+"71000";"45 tot 50 jaar";""
+"71100";"50 tot 55 jaar";""
+"71200";"55 tot 60 jaar";""
+"71300";"60 tot 65 jaar";""
+"71400";"65 tot 70 jaar";""
+"71500";"70 tot 75 jaar";""
+"71600";"75 tot 80 jaar";""
+"71700";"80 tot 85 jaar";""
+"71800";"85 tot 90 jaar";
+"71900";"90 tot 95 jaar";
+"Doodsoorzaken"
+Key;Title;Description
+"T001440";"Totaal onderliggende doodsoorzaken";"Alle onderliggende doodsoorzaken tezamen. 
+
+
+Bijbehorende ICD-codes: 
+
+ICD-10: A00-Y89"
+"A045609";"1 Infectieuze en parasitaire ziekten";"Infectieuze en parasitaire ziekten. ICD-10 code: A00-B99."
+"A025508";"1.1 Infectieziekten van maagdarmkanaal";"Infectieziekten van het maagdarmkanaal. ICD10 code: A00-A09"
+"A025526";"1.7 Aids en hiv-infectie";"Acquired Immuno Deficiency Syndrome (AIDS) en Humane Immunodeficiency Virus (HIV)-infectie. ICD10 code: B20-B24 (de ICD10 code Z21 is niet opgenomen in deze tabel)."
+"A045615";"2 Nieuwvormingen";"Nieuwvormingen. ICD-10 code: C00-D48."
+"A045616";"2.1 Kwaadaardige nieuwvormingen";"Kwaadaardige nieuwvormingen. ICD-10 code: C00-C97."
+"A025544";"2.1.4 Dikkedarmkanker";"ICD10 code: C18-C21"
+"A025547";"2.1.7 Longkanker";"ICD10 code: C33-C34"
+"A025548";"2.1.8 Mesothelioom";"ICD10 code: C45"
+"A025549";"2.1.9 Huidkanker";"ICD10 code: C43-C44"
+"A025550";"2.1.9.1 Melanoom";"ICD10 code: C43"
+"A025551";"2.1.9.2 Non-melanoma huidkanker";"ICD10 code: C44"
+"A025552";"2.1.10 Borstkanker";"ICD10 code: C50"
+"A025553";"2.1.11 Baarmoederhalskanker";"ICD10 code: C53"
+"A025555";"2.1.13 Prostaatkanker";"ICD10 code: C61"
+"A025560";"2.1.17.1 Non-Hodgkin lymfomen (NHL)";"ICD10 code: C82-C86, C88"
+"A025564";"2.2  Ov. nieuwvormingen (excl. maligne)";"Overige nieuwvormingen (excl. kwaadaardig). ICD10 code: D00-D48"
+"A045639";"4 Endocriene-, voedings, stofw.ziekten";"Endocriene, voedings-, stofwisselingsziekten. ICD10 code: E00-E90."
+"A025570";"4.2 Diabetes mellitus (suikerziekte)";"ICD10 code: E10-E14"
+"A045642";"5 Psychische en gedragsstoornissen";"Psychische stoornissen en gedragsstoornissen. ICD-10 code: F00-F99."
+"A025576";"5.1 Dementie incl. ziekte van Alzheimer";"Dementie (uitgebreide of beperkte neurocognitieve stoornis), inclusief ziekte van Alzheimer. De ziekte van Alzheimer valt formeel onder de ICD10 hoofdgroep /""/Ziekten zenuwstelsel en zintuigen/""/, maar is hier opgenomen onder dementie. ICD10 code: F00-F03, G30 (de vierpositie ICD10 code F05.1 is niet opgenomen in deze tabel)"
+"A025577";"5.2 Afhankelijkheid en misbruik alcohol";"Afhankelijkheid en misbruik van alcohol. ICD10 code: F10"
+"A025580";"5.5 Afh. en misbruik van drugs";"Afhankelijkheid en misbruik van drugs of andere middelen excl. tabak. ICD10 code: F11-F12, F14-F16, F18-F19"
+"A025582";"5.7 Stemmingsstoornissen";"ICD10 code: F30-F34, F38-F39"
+"A025583";"5.7.1 Depressieve stoornissen";"ICD10 code: F32-F33 (de vierpositie ICD10 code F34.1 is niet opgenomen in deze tabel) "
+"A025585";"5.7.3 Overige stemmingsstoornissen";"ICD10 code: F38-F39 (de vierpositie ICD10 codes F34.0, F34.8-F34.9 zijn niet opgenomen in deze tabel) "
+"A025588";"5.10 Angststoornissen";"ICD10 code: F40-F42 (de vierpositie ICD10 codes F43.0-F43.1 zijn niet opgenomen in deze tabel) "
+"A025590";"5.12 Persoonlijkheidsstoornissen";"ICD10 code: F60"
+"A025591";"5.13 Gedragsstoornissen";"ICD10 code: F91"
+"A025592";"5.14 ADHD";"Attention Deficit / Hyperactivity Disorder (ADHD). ICD10 code: F90"
+"A025593";"5.15 Verstandelijke beperking";"ICD10 code: F70-F79"
+"A045646";"6 Ziekten zenuwstelsel en zintuigen";"Totaal ziekten zenuwstelsel en zintuigen. ICD-10 code: G00-H95."
+"A025596";"6.1 Ziekte van Parkinson, parkinsonisme";"Ziekte van Parkinson en parkinsonisme. ICD10 code: G20-G22"
+"A025598";"6.3 Epilepsie";"ICD10 code: G40-G41"
+"A025599";"6.4 Migraine";"ICD10 code: G43"
+"A045650";"9 Ziekten van hart en vaatstelsel";"Ziekten van hart en vaatstelsel. ICD-10 code: I00-I99."
+"A025617";"9.1 Aand. van endocard/klepafwijkingen";"Aandoeningen van het endocard/klepafwijkingen. ICD10 code: I05-I08, I33-I39 (de vierpositie ICD10 codes I01.1, Z95.2-Z95.4 zijn niet opgenomen in deze tabel) "
+"A025619";"9.3 Coronaire hartziekten";"ICD10 code: I20-I25"
+"A025620";"9.3.1 Acuut myocardinfarct (AMI)";"ICD10 code: I21-I22"
+"A025621";"9.3.2 Coronaire hartziekten excl. AMI";"Coronaire hartziekten excl. acuut myocardinfarct (AMI). ICD10 code: I20, I23-I25"
+"A025622";"9.4 Hartritmestoornissen";"ICD10 code: I47-I49"
+"A025623";"9.5 Hartstilstand";"ICD10 code: I46"
+"A025624";"9.6 Hartfalen";"ICD10 code: I50"
+"A025631";"9.9 Beroerte incl. TIA";"Beroerte inclusief TIA (Transient Ischaemic Attack). TIA valt formeel onder de ICD10 hoofdgroep /""/Ziekten zenuwstelsel en zintuigen/""/, maar is hier opgenomen onder beroerte. ICD10 code: G45, I60-I69"
+"A025632";"9.9.1 TIA, passagère cerebrale ischemie";"Transient Ischaemic Attack (TIA), passagère cerebrale ischemie. ICD10 code: G45"
+"A025633";"9.9.2 Overige beroerte";"ICD10 code: I60-I69"
+"A045657";"10 Ziekten van ademhalingsstelsel";"Ziekten van ademhalingsstelsel. ICD-10 code: J00-J99."
+"A025637";"10.2 Infecties van onderste luchtwegen";"Infecties van de onderste luchtwegen. ICD10 code: J12-J18, J20-J22 (de vierpositie ICD10 codes A48.1, J69.0 zijn niet opgenomen in deze tabel) "
+"A025638";"10.2.1 Acute bronchitis en bronchiolitis";"ICD10 code: J20-J22"
+"A025639";"10.2.2 Longontsteking";"ICD10 code: J12-J18 (de vierpositie ICD10 codes A48.1, J69.0 zijn niet opgenomen in deze tabel) "
+"A025640";"10.3 Influenza";"ICD10 code: J09-J11"
+"A025641";"10.4 COPD";"Chronic Obstructive Pulmonary Disease  (COPD)
+ICD10 code: J40-J44"
+"A025642";"10.5 Astma";"ICD10 code: J45-J46"
+"A045664";"11 Ziekten van spijsverteringsstelsel";"Ziekten van spijsverteringsstelsel. ICD-10 code: K00-K93."
+"A045670";"12 Ziekten van huid en subcutis";"Ziekten van huid en subcutis. ICD-10 code: L00-L99."
+"A025661";"12.1 Constitutioneel eczeem";"ICD10 code: L20"
+"A025662";"12.2 Contact-eczeem";"ICD10 code: L23-L25"
+"A045671";"13 Zktn. botspierstelsel en bindweefsel";"Ziekten van botspierstelsel en bindweefsel. ICD-10 code: M00-M99."
+"A025667";"13.1 Reumatoïde artritis (RA), reuma";"ICD10 code: M05-M06 (de vierpositie ICD10 code M08.0 is niet opgenomen in deze tabel) "
+"A025668";"13.2 Artrose (gegen. of perifeer)";"Artrose (gegeneraliseerd of perifeer). ICD10 code: M15-M19"
+"A025669";"13.2.1 Heupartrose";"ICD10 code: M16"
+"A025670";"13.2.2 Knie-artrose";"ICD10 code: M17"
+"A025671";"13.2.3 Overig artrose";"ICD10 code: M15, M18-M19"
+"A025674";"13.5 Nek- en rugklachten";"ICD10 code: M45-M48, M50-M51, M53-M54 (de vierpositie ICD10 codes M49.1-M49.5, M49.8 zijn niet opgenomen in deze tabel) "
+"A025675";"13.6 Osteoporose";"ICD10 code: M80-M82"
+"A045674";"14 Ziekten van urogenitaal stelsel";"Ziekten van urogenitaal stelsel. ICD-10 code: N00-N99."
+"A025678";"14.1 Nierfalen";"ICD10 code: N17-N19"
+"A045678";"16 Aand. van de perinatale periode";"Aandoeningen van de perinatale periode. ICD-10 code: P00-P96."
+"A025703";"16.1 Laag geboortegewicht";"Laag geboortegewicht of foetale ondervoeding. ICD-10 code: P05, P07."
+"A045679";"17 Aangeboren afwijkingen";"Aangeboren afwijkingen. ICD-10 code: Q00-Q99."
+"A025707";"17.2 Aangeb. afw. van hartvaatstelsel";"Aangeboren afwijkingen van het hartvaatstelsel. ICD10 code: Q20-Q28"
+"A025708";"17.3 Syndroom van Down";"ICD10 code: Q90"
+"A045683";"18 Symptomen, afwijkende klin. bevind.";"Symptomen, afwijkende klinische bevindingen en laboratoriumuitslagen, niet elders geclassificeerd. ICD-10 code: R00-R99."
+"A045687";"21 Uitwendige doodsoorzaken";"Uitwendige doodsoorzaken. ICD-10 code: V01-Y89."
+"A045688";"21.1 Ongevallen";"ICD-10 codes: V01-X59."
+"A045689";"21.1.1 Vervoersongeval";"ICD-10 code: V01-V99."
+"A025731";"21.1.1 Vervoersongeval incl. late gev.";"Vervoersongeval inclusief late gevolgen. ICD10 code: V01-V99, Y85"
+"A045690";"21.1.1.1 Wegverkeersongeval";"ICD10: zie de CBS website voor een overzicht van de codes (https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/aanvullende%20onderzoeksbeschrijvingen/wegverkeersongevallen-codelijst)"
+"A025736";"21.2 Accidentele vergiftiging";"ICD10 code: X40-X49"
+"A025739";"21.5 Accidentele val";"ICD10 code: W00-W19"
+"A025742";"21.8 Accidentele verdrinking";"ICD10 code: W65-W74"
+"A025744";"21.10 Zelftoegebracht letsel";"ICD10 code: X60-X84 (de vierpositie ICD10 code Y87.0 is niet opgenomen in deze tabel) "
+"A025745";"21.11 Geweld";"ICD10-code: X85-Y09"
+"Perioden"
+Key;Title;Description;Status
+"1950JJ00";"1950";"";"Definitief"
+"1951JJ00";"1951";"";"Definitief"
+"1952JJ00";"1952";"";"Definitief"
+"1953JJ00";"1953";"";"Definitief"
+"1954JJ00";"1954";"";"Definitief"
+"1955JJ00";"1955";"";"Definitief"
+"1956JJ00";"1956";"";"Definitief"
+"1957JJ00";"1957";"";"Definitief"
+"1958JJ00";"1958";"";"Definitief"
+"1959JJ00";"1959";"";"Definitief"
+"1960JJ00";"1960";"";"Definitief"
+"1961JJ00";"1961";"";"Definitief"
+"1962JJ00";"1962";"";"Definitief"
+"1963JJ00";"1963";"";"Definitief"
+"1964JJ00";"1964";"";"Definitief"
+"1965JJ00";"1965";"";"Definitief"
+"1966JJ00";"1966";"";"Definitief"
+"1967JJ00";"1967";"";"Definitief"
+"1968JJ00";"1968";"";"Definitief"
+"1969JJ00";"1969";"";"Definitief"
+"1970JJ00";"1970";"";"Definitief"
+"1971JJ00";"1971";"";"Definitief"
+"1972JJ00";"1972";"";"Definitief"
+"1973JJ00";"1973";"";"Definitief"
+"1974JJ00";"1974";"";"Definitief"
+"1975JJ00";"1975";"";"Definitief"
+"1976JJ00";"1976";"";"Definitief"
+"1977JJ00";"1977";"";"Definitief"
+"1978JJ00";"1978";"";"Definitief"
+"1979JJ00";"1979";"";"Definitief"
+"1980JJ00";"1980";"";"Definitief"
+"1981JJ00";"1981";"";"Definitief"
+"1982JJ00";"1982";"";"Definitief"
+"1983JJ00";"1983";"";"Definitief"
+"1984JJ00";"1984";"";"Definitief"
+"1985JJ00";"1985";"";"Definitief"
+"1986JJ00";"1986";"";"Definitief"
+"1987JJ00";"1987";"";"Definitief"
+"1988JJ00";"1988";"";"Definitief"
+"1989JJ00";"1989";"";"Definitief"
+"1990JJ00";"1990";"";"Definitief"
+"1991JJ00";"1991";"";"Definitief"
+"1992JJ00";"1992";"";"Definitief"
+"1993JJ00";"1993";"";"Definitief"
+"1994JJ00";"1994";"";"Definitief"
+"1995JJ00";"1995";"";"Definitief"
+"1996JJ00";"1996";"";"Definitief"
+"1997JJ00";"1997";"";"Definitief"
+"1998JJ00";"1998";"";"Definitief"
+"1999JJ00";"1999";"";"Definitief"
+"2000JJ00";"2000";"";"Definitief"
+"2001JJ00";"2001";"";"Definitief"
+"2002JJ00";"2002";"";"Definitief"
+"2003JJ00";"2003";"";"Definitief"
+"2004JJ00";"2004";"";"Definitief"
+"2005JJ00";"2005";"";"Definitief"
+"2006JJ00";"2006";"";"Definitief"
+"2007JJ00";"2007";"";"Definitief"
+"2008JJ00";"2008";"";"Definitief"
+"2009JJ00";"2009";"";"Definitief"
+"2010JJ00";"2010";"";"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017JJ00";"2017";"Voorlopige cijfers";"Voorlopig"

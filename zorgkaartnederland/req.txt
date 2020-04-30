@@ -1,0 +1,5 @@
+pandas-gbq==0.11.0
+pyarrow==0.14.1
+cartoframes==1.0b3
+geopandas
+geopy==1.21.0

@@ -1,0 +1,311 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Psychische aandoeningen; type aandoening, persoonskenmerken";"Psychische aandoeningen; kenmerk";"50025NED";"Psychische aandoening
+Geslacht, leeftijd, onderwijsniveau, inkomen, herkomst";"2016-04-28T02:00:00";"Herontwerp";"";"nl";"RIVM";"Onregelmatig";"2007-2009";"
+De cijfers in deze tabel zijn afkomstig uit het Netherlands Mental Health Survey and Incidence Study-2 Project (NEMESIS-2) van het Trimbos-instituut (Ti). Deze tabel is gemaakt voor De Staat van Volksgezondheid en Zorg en bevat gegevens over de psychische gezondheidstoestand onder de Nederlandse bevolking van 18 tot 65 jaar.
+Gegevens zijn beschikbaar voor verschillende soorten psychische aandoeningen naar verschillende persoonskenmerken, inclusief of er sprake was van een aandoening ooit in het leven of in de afgelopen 12 maanden. 
+
+Gegevens beschikbaar vanaf: 
+2007/2009
+
+Status van de cijfers: 
+Definitief
+
+Wijzigingen per 08-04-2016: 
+Geen, dit is een nieuwe tabel. 
+
+Wanneer komen er nieuwe cijfers?
+Het is nog niet bekend wanneer cijfers uit de twee metingen van 2010-2015 beschikbaar komen.
+
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+
+1. TOELICHTING
+
+De cijfers in deze tabel zijn afkomstig uit het Netherlands Mental Health Survey and Incidence Study-2 Project (NEMESIS-2) van het Trimbos-instituut (Ti). Deze tabel is gemaakt voor De Staat van Volksgezondheid en Zorg en bevat gegevens over de psychische gezondheidstoestand onder de Nederlandse bevolking van 18 tot 65 jaar.
+Gegevens zijn beschikbaar voor verschillende soorten psychische aandoeningen naar verschillende persoonskenmerken, inclusief of er sprake was van een aandoening ooit in het leven of in de afgelopen 12 maanden. 
+
+Gegevens beschikbaar vanaf: 
+2007/2009
+
+Status van de cijfers: 
+Definitief
+
+Wijzigingen per 08-04-2016: 
+Geen, dit is een nieuwe tabel. 
+
+Wanneer komen er nieuwe cijfers?
+Het is nog niet bekend wanneer cijfers uit de twee metingen van 2010-2015 beschikbaar komen.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Verklaring van symbolen:
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+* : voorlopige cijfers
+** : nader voorlopige cijfers
+
+Cijfers:
+
+De significantie duidt op verschillen tussen de categorieën van een bepaald persoonskenmerk (leeftijd, onderwijsniveau, woonsituatie etc.), 0 = geen significant verschil en 1 = wel een significant verschil (p<0,01).
+
+De aandoeningen dysthemie, bipolaire stoornis en agorafobie zonder paniekstoornis hebben een afwijkende indeling bij sommige persoonskenmerken. 
+-Bij opleiding zijn de categorieën /""/lager onderwijs/""/ en /""/LBO, MAVO/""/ samengevoegd als /""/Lager onderwijs, LBO, MAVO/""/.
+-Bij woonsituatie zijn de verschillende mogelijke categorieën samengevoegd als /""/woonsituatie: met partner/""/ en /""/woonsituatie: zonder partner/""/. 
+-Bij werksituatie zijn de verschillende mogelijke categorieën voor geen betaald werk samengevoegd tot één categorie /""/werksituatie: geen betaald werk/""/. 
+-In plaats van de categorieën stedelijkheid is alleen het onderscheid gemaakt naar /""/stad/""/ en /""/platteland/""/. 
+
+De aandoeningen Aandachtstekort- of gedragsstoornis, ADHD, Gedragsstoornis en Oppositioneel-opstandige gedragsstoornis zijn alleen gemeten bij respondenten van 18 tot 45 jaar.
+
+De aandoeningen Aandachtstekort- of gedragsstoornis, Gedragsstoornis, Oppositioneel-opstandige gedragsstoornis en Antisociale persoonlijkheidsstoornis zijn alleen beschikbaar voor het onderwerp /""/Ooit in het leven/""/.
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+
+4. BRONNEN EN METHODEN
+
+Bronnen:
+
+Organisatie die de gegevens uit deze tabel levert:
+Trimbos-instituut: <a href=' http://www.trimbos.nl'>http://www.trimbos.nl</a>
+
+Website van de gegevensbron waar de cijfers in deze tabel vandaan komen:
+NEMESIS-2: <a href='https://www.trimbos.nl/themas/monitoring-psychische-gezondheid-en-welbevinden/nemesis-2-algemene-bevolking'>https://www.trimbos.nl/themas/monitoring-psychische-gezondheid-en-welbevinden/nemesis-2-algemene-bevolking</a>
+
+NEMESIS-2 rapportage: <a href='https://assets-sites.trimbos.nl/docs/9b912526-eb91-464f-87fa-2e064cee197a.pdf'>https://assets-sites.trimbos.nl/docs/9b912526-eb91-464f-87fa-2e064cee197a.pdf</a>
+
+Data verstrekker:
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+De Staat van Volksgezondheid en Zorg: <a href='http://www.staatvenz.nl/'>http://www.staatvenz.nl/</a>
+
+Informatie over de gegevensbron op Zorggegevens.nl:
+<a href=' https://bronnen.zorggegevens.nl/Bron?naam=Netherlands-Mental-Health-Survey-and-Incidence-Study-2'>Link Zorggegevens</a>
+
+Methoden:
+
+Beschrijving:
+Een bevolkingsonderzoek naar de psychische gezondheidstoestand onder de Nederlandse bevolking van 18 tot 65 jaar. NEMESIS-2 is een representatieve steekproef van de Nederlandse bevolking. Door verschillende metingen ontstaat een longitudinaal beeld van de prevalentie, incidentie, het beloop en de consequenties van psychische aandoeningen in de volwassen Nederlandse bevolking en de mate waarin voor psychische problemen ook hulp gezocht wordt. De eerste meting van NEMESIS-2 is uitgevoerd in de periode november 2007 tot en met juli 2009 en zal opnieuw nog twee keer gebeuren in de periode 2010-2015.
+
+Detail:
+De studie geeft inzicht in o.a. de aanwezigheid (prevalentie), het ontstaan (incidentie), beloop van psychische aandoeningen en van suïcidaliteit en risicofactoren daarvan; het functioneren bij psychische aandoeningen; de kosten van verzuim vanwege psychische en somatische aandoeningen; en de mate van aansluiting van het zorggebruik bij de ernst van de psychische problematiek. Doelgroep is de algemene bevolking van 18 tot 65 jaar. Er waren 6.646 deelnemers in de periode 2007-2009, een responspercentage van 65%. De percentages in de tabellen zijn zogenoemde gewogen resultaten. Hoewel de deelnemers aan de eerste meting van NEMESIS-2 redelijk goed representatief waren voor de Nederlandse bevolking, kunnen kleine afwijkingen op een aantal kenmerken tussen de steekproef en de bevolking toch voor enige vertekening zorgen. Zie hoofdstuk 3 in het NEMESIS-2 rapport /""/De psychische gezondheid van de Nederlandse bevolking/""/ voor een beschrijving van de weegfactor die is toegepast.
+
+Doel:
+Doel is het actualiseren en vernieuwen van epidemiologische gegevens over de algemene bevolking wat betreft psychiatrische stoornissen, inclusief verslaving.
+
+
+5. MEER INFORMATIE 
+
+De Staat van Volksgezondheid en Zorg 
+Rijksinstituut voor Volksgezondheid en Milieu (RIVM), Bilthoven 
+Contact: info@staatvenz.nl 
+
+CC BY-SA 4.0 gelicenseerd. 
+<a href='http://creativecommons.org/licenses/by-sa/4.0/deed.nl'>Volledige licentietekst CC BY-SA 4.0</a>";"_la=nl&_si=&_gu=&_ed=Geslacht&graphType=table&_td=Perioden";"$filter=((Geslacht eq 'T001038')) and (Persoonskenmerken eq '1018850') and (Indicator eq 'B000038') and ((Perioden eq '2007G300'))&$select=Geslacht, Persoonskenmerken, Indicator, Perioden, Totaal_1";"Table,Bar";"Regulier";"Staat van Volksgezondheid en Zorg, RIVM";"2016-04-28T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Geslacht";"Geslacht";"";;;;;
+"1";"1";;"Dimension";"Persoonskenmerken";"Persoonskenmerken";"";;;;;
+"2";"2";;"Dimension";"PsychiatrischeAandoeningen";"Psychiatrische aandoeningen";"";;;;;
+"3";"3";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"4";;;"TopicGroup";"";"Aandoening; ooit in het leven";;;;;;
+"5";"4";"4";"Topic";"Percentage_1";"Percentage";;;"Double";"%";"1";"Missing"
+"6";"5";"4";"Topic";"Significantie_2";"Significantie";"0 = geen significant verschil en 1 = wel een significant verschil (P<0,01) tussen de categorieën van een bepaald persoonskenmerk (leeftijd, onderwijsniveau, woonsituatie etc.).";;"Long";"Verschil binnen persoonskenmerk";"0";"Missing"
+"7";;;"TopicGroup";"";"Aandoening; afgelopen 12 maanden";;;;;;
+"8";"6";"7";"Topic";"Percentage_3";"Percentage";;;"Double";"%";"1";"Missing"
+"9";"7";"7";"Topic";"Significantie_4";"Significantie";"0 = geen significant verschil en 1 = wel een significant verschil (P<0,01) tussen de categorieën van een bepaald persoonskenmerk (leeftijd, onderwijsniveau, woonsituatie etc.).";;"Long";"Verschil binnen persoonskenmerk";"0";"Missing"
+"Geslacht"
+Key;Title;Description
+"T001038";"Totaal mannen en vrouwen";""
+"3000   ";"Mannen";""
+"4000   ";"Vrouwen";""
+"Persoonskenmerken"
+Key;Title;Description
+"2017555";"Werksituatie: student";""
+"2018700";"Onderwijsniveau: lager onderwijs";"Het hoogst behaald onderwijsniveau is lager onderwijs."
+"2018730";"Onderwijsniveau: lager, lbo, mavo";"Het hoogst behaald onderwijsniveau is lager onderwijs, lbo of mavo."
+"2018750";"Onderwijsniveau: mbo, havo, vwo";"Het hoogst behaald onderwijsniveau is havo, vwo, mbo. 
+Dit omvat de bovenbouw van havo/vwo, de basisberoepsopleiding (mbo-2), de vakopleiding (mbo-3) en de middenkader- en specialistenopleidingen (mbo-4)."
+"2018789";"Onderwijsniveau: hbo, wo";"Het hoogst behaald onderwijsniveau is hbo en wo. 
+Dit omvat de associatie degree, de hbo- en wo-bachelors,  4-jarige hbo-opleidingen, wo-masters en wo-doctorsopleidingen."
+"T009002";"Totaal";""
+"53105  ";"Leeftijd: 18 tot 25 jaar";""
+"53500  ";"Leeftijd: 25 tot 35 jaar";""
+"53700  ";"Leeftijd: 35 tot 45 jaar";""
+"53800  ";"Leeftijd: 45 tot 55 jaar";""
+"53900  ";"Leeftijd: 55 tot 65 jaar";""
+"B000016";"Onderwijsniveau: lbo, mavo";"Het hoogst behaald onderwijsniveau is, lbo of mavo."
+"B000017";"Woonsituatie: met partner ";
+"B000018";"Woonsituatie: met partner met kinderen";
+"B000019";"Woonsituatie: met partner geen kinderen";
+"B000020";"Woonsituatie: zonder partner";
+"B000021";"Woonsituatie: alleenstaande ouder";
+"B000022";"Woonsituatie: alleenstaand";
+"B000023";"Woonsituatie: bij ouders";
+"B000024";"Woonsituatie: met anderen";
+"B000025";"Werksituatie: betaald werk";
+"B000026";"Werksituatie: geen betaald werk";
+"B000027";"Werksituatie: huisvrouw, huisman";
+"B000029";"Werksituatie: werkloos,arbeidsongeschikt";
+"B000030";"Werksituatie: gepensioneerd, anders";""
+"B000031";"Inkomen: laag";
+"B000032";"Inkomen: midden";
+"B000033";"Inkomen: hoog";
+"B000054";"Herkomst: westerse allochtoon";"Allochtonen van wie het land van herkomst is gelegen in Europa (m.u.v. Turkije), Noord-Amerika, Indonesië, Japan of Oceanië (onder meer Australië, Nieuw-Zeeland).
+
+Van een in het buitenland geboren allochtoon wordt zijn of haar geboorteland beschouwd als het land van herkomst. Van een in Nederland geboren allochtoon wordt het geboorteland van de moeder beschouwd als het land van herkomst, indien de moeder niet in Nederland is geboren. Indien betrokkene alsmede diens moeder in Nederland zijn geboren, dan wordt het geboorteland van de vader beschouwd als het land van herkomst."
+"B000055";"Herkomst: niet-westerse allochtoon";"Gedefinieerd als zelf of minstens één ouder niet geboren in West-Europa of Noord-Amerika. "
+"B000034";"Religieus: wel";
+"B000035";"Religieus: niet";
+"B000056";"Urbanisatiegraad: zeer hoog";""
+"B000057";"Urbanisatiegraad: hoog";""
+"B000058";"Urbanisatiegraad: matig";""
+"B000059";"Urbanisatiegraad: laag";""
+"B000060";"Urbanisatiegraad: zeer laag";""
+"B000036";"Urbanisatiegraad: stad";
+"B000037";"Urbanisatiegraad: platteland";
+"PsychiatrischeAandoeningen"
+Key;Title;Description
+"T001187";"Psychiatrische aandoeningen (As-I)";"Iemand heeft één of meer van de afzonderlijke stoornissen uit de hoofdgroepen stemmingsstoornis, angststoornis, middelenstoornis of aandachtstekort- of gedragsstoornis gehad. Voor een meer gedetailleerde beschrijving van deze aandoeningen wordt verwezen naar de specifieke paragrafen van deze stoornissen.
+
+NB: Antisociale persoonlijkheidsstoornis is een As-II stoornis en valt niet onder dit totaalcijfer."
+"A027781";"Stemmingsstoornis totaal";"Iemand heeft één of meer van de afzonderlijke aandoeningen uit de hoofdgroep stemmingsstoornis gehad. Voor een meer gedetailleerde beschrijving van deze aandoeningen wordt verwezen naar de specifieke paragrafen van deze stoornissen."
+"A027782";"Depressieve stoornis";"Iemand heeft een depressieve stoornis als men gedurende tenminste twee weken minstens één van de volgende twee kernsymptomen heeft:
+- Een neerslachtige stemming gedurende het grootste deel van de dag, bijna elke dag
+- Een duidelijk verlies aan interesse in alle of bijna alle activiteiten gedurende het grootste deel van de dag, bijna elke dag
+Daarnaast dienen andere symptomen bijna dagelijks aanwezig te zijn: 
+- Eetproblemen (heel veel of juist heel weinig eten) of verandering in het gewicht
+- Slaapgebrek of juist te veel slapen
+- Geagiteerd en rusteloos zijn of juist geremd
+- Vermoeidheid en verlies aan energie
+- Gevoelens van waardeloosheid of overmatige schuldgevoelens
+- Concentratieproblemen, vertraagd denken en besluiteloosheid
+- Terugkerende gedachten aan de dood of aan zelfdoding 
+Er is sprake van een depressieve stoornis wanneer minimaal vijf symptomen tegelijk aanwezig zijn, inclusief één of twee van de kernsymptomen."
+"A027783";"Dysthymie";"Het belangrijkste kenmerk van dysthymie is een chronisch depressieve stemming die het grootste deel van de dag aanwezig is, op meer dagen wel dan niet, gedurende tenminste twee jaar. Van dysthymie wordt gesproken als tenminste twee van de volgende symptomen lange tijd aanwezig zijn, gedurende twee jaar. De symptomen mogen nooit langer dan twee maanden afwezig zijn:
+- Slechte eetlust of juist te veel eten
+- Slaapgebrek of juist te veel slapen
+- Gebrek aan energie of vermoeidheid
+- Gering gevoel van eigenwaarde
+- Slecht kunnen concentreren of besluiteloos zijn
+- Gevoelens van hopeloosheid"
+"A027784";"Bipolaire stoornis";"Bipolaire stoornis wordt ook wel manisch-depressieve stoornis genoemd. De term bipolair geeft aan dat de stemming twee extremen kan vertonen: van tijd tot tijd extreem uitgelaten of juist extreem neerslachtig.
+Iemand heeft een bipolaire stoornis als hij of zij episodes doormaakt met een tenminste enkele dagen tot weken aanhoudende uitgelaten of prikkelbare stemming (manische of hypomanische episodes). Dat uit zich als overdreven vrolijk zijn maar ook snel boos zijn. Daarnaast is vaak sprake van minstens drie van de volgende verschijnselen:
+- Druk praten, drukker dan gewoonlijk
+- Het gevoel hebben alles aan te kunnen
+- Weinig slapen
+- Overactief zijn, aandacht wordt gemakkelijk afgeleid door niet terzake doende prikkels
+- Dingen doen zonder rekening te houden met nadelige gevolgen (bijvoorbeeld midden in de nacht harde muziek draaien, te veel geld uitgeven, impulsief nieuwe (seksuele) relaties aangaan)
+- Toenemen van doelgerichte activiteit of psychomotorische agitatie
+- Gedachtevlucht, gevoel dat de gedachten jagen
+Een bipolaire stoornis is dermate ernstig dat er duidelijke problemen in het werk of de gewone sociale activiteiten of relaties ontstaan. 
+Als de symptomen gepaard gaan met problemen in het functioneren (ruzies, onverantwoorde uitgaven of andere activiteiten) spreekt men van een manie, als dat niet het geval is van een hypomanie. Vrijwel alle mensen met een bipolaire stoornis maken naast (hypo)manische episodes ook depressieve episodes door. Overigens worden de (hypo)manische en depressieve episodes afgewisseld door periodes zónder een veranderde stemming."
+"A027785";"Angststoornis totaal";"Iemand heeft één of meer van de afzonderlijke aandoeningen uit de hoofdgroep angststoornis gehad. Voor een meer gedetailleerde beschrijving van deze aandoeningen wordt verwezen naar de specifieke paragrafen van deze stoornissen."
+"A027786";"Paniekstoornis";"Iemand heeft aanvallen van ernstige ongefundeerde angst, die optreedt zonder dat daar directe aanleiding voor is, en die gepaard gaan met een aantal andere klachten, zoals ademnood, hartkloppingen, transpireren en angst om de controle over zichzelf te verliezen."
+"A027787";"Agorafobie zonder paniekstoornis";"Wanneer iemand uit vrees voor een sterke angst menigten gaat mijden en situaties waar men niet snel genoeg uit weg kan komen, is er sprake van agorafobie (ook wel pleinvrees genoemd). Agorafobie kan met en zonder paniekstoornis vóórkomen. Hier wordt agorafobie zonder paniekstoornis beschreven."
+"A027788";"Sociale fobie";"Iemand heeft sociale fobie als:
+- Men een intense en irrationele angst heeft voor het verkeren in het gezelschap van anderen, vooral als daar een prestatie van die persoon wordt verwacht, bijvoorbeeld spreken in het openbaar, in aanwezigheid van anderen schrijven of vragen beantwoorden. De persoon is bang door anderen negatief te worden beoordeeld. Hij of zij kan ook bang zijn voor de eigen reactie op de angst, zoals verlegenheid, blozen of trillen.
+- De betrokkene probeert de gevreesde sociale situaties te vermijden. Als dat niet mogelijk is, doorstaat men het met intense angst.
+- De angst in sociale situaties en het vermijdingsgedrag het dagelijkse functioneren sterk verstoren.
+- De betrokkene zich ervan bewust is dat zijn of haar angst onredelijk en overdreven is."
+"A027789";"Specifieke fobie";"Voor de specifieke fobie, ook wel enkelvoudige fobie genoemd, gelden de volgende criteria: 
+- Een duidelijke en aanhoudende angst die overdreven of onredelijk is, uitgelokt door de aanwezigheid van of het anticiperen op een specifiek voorwerp of situatie (bij voorbeeld vliegen, hoogten, dieren, een injectie krijgen, of bloed zien).
+- Blootstelling aan de angstwekkende prikkel veroorzaakt bijna zonder uitzondering een onmiddellijke angstreactie, die de vorm kan krijgen van een situatiegebonden angst of een paniekaanval.
+- Betrokkene is zich ervan bewust dat de angst overdreven of onredelijk is.
+- De angstwekkende situatie wordt vermeden of doorstaan met intense angst of lijden.
+- De vermijding, de angstige verwachting of het lijden in de gevreesde situatie belemmeren in sterke mate de normale routine, het functioneren tijdens het werk of de studie, de sociale activiteiten of relaties met anderen, of er is een duidelijk lijden door het hebben van de fobie."
+"A027790";"Gegeneraliseerde angststoornis";"Mensen met een gegeneraliseerde angststoornis zijn voortdurend angstig en bezorgd over alledaagse dingen. Ze hebben moeite deze zorgen en angsten onder controle te houden. Daarnaast moeten tenminste drie van de volgende symptomen voortdurend aanwezig zijn gedurende een periode van minstens zes maanden:"
+"A027791";"Middelenstoornis totaal";"Iemand heeft één of meer van de afzonderlijke aandoeningen uit de hoofdgroep middelenstoornis gehad. Voor een meer gedetailleerde beschrijving van deze aandoeningen wordt verwezen naar de specifieke paragrafen van deze stoornissen."
+"A027792";"Alcoholmisbruik";"Er is sprake van alcoholmisbruik als iemand een patroon van onaangepast alcoholgebruik heeft blijkend uit minstens één van de volgende vier criteria:
+- De persoon gebruikt herhaaldelijk alcohol met als gevolg dat het niet meer lukt om in belangrijke mate te voldoen aan verplichtingen op het werk, school of thuis.
+- Men drinkt herhaaldelijk in situaties waarin dit fysiek gevaarlijk is (bijvoorbeeld autorijden onder invloed).
+- In samenhang met het gebruik van alcohol is men in aanraking gekomen met justitie. 
+- De persoon gebruikt bij voortduring alcohol hoewel dit een sociaal, beroepsmatig, psychisch of lichamelijk probleem in stand houdt.
+Omdat alcoholafhankelijkheid vaak vooraf wordt gegaan door alcoholmisbruik, werd de diagnose alcoholmisbruik met uitsluiting van de diagnose alcoholafhankelijkheid bepaald."
+"A027793";"Alcoholafhankelijkheid";"Van alcoholafhankelijkheid is sprake als de persoon minstens aan drie van de volgende criteria voldoet:
+- Men drinkt vaak grotere hoeveelheden of langer dan men van plan was.
+- Men wil beslist minderen of stoppen met drinken of heeft zonder succes geprobeerd dit te doen.
+- Er wordt veel tijd gestoken in het verkrijgen van alcoholhoudende drank en in de consumptie ervan. Ook kan veel tijd nodig zijn om van de naweeën van gebruik te bekomen. 
+- Iemand heeft een sterke gewenning of tolerantie. Drinken van dezelfde hoeveelheid heeft minder effect dan eerder. Of: de persoon moet meer drinken om dronken te worden of een ander gewenst effect te bereiken.
+- Bij stopzetting of onderbreking van drinken is er sprake van ontwenningsverschijnselen, ook wel onthoudingsverschijnselen genoemd, zoals een kater. Het drinken heeft vaak tot doel om onthoudingsverschijnselen te verlichten of te voorkómen.
+- De persoon offert vanwege het drinken sociale en beroepsmatige activiteiten en (andere) besteding van vrije tijd op.
+- Iemand gaat door met drinken al kent men de nadelen daarvan voor het functioneren of de gezondheid. 
+Er is sprake van alcoholafhankelijkheid wanneer drie of meer symptomen zich in dezelfde periode van 12 maanden hebben voorgedaan."
+"A027794";"Drugsmisbruik";"De criteria voor een diagnose drugsmisbruik zijn dezelfde als die van alcoholmisbruik. Onder drugs worden verstaan: Cannabis - Cocaïne - Clubdrugs (zoals XTC en GHB) - Hallucinerende middelen (zoals LSD, mescaline, PCP, paddo's) - Opiaten (zoals heroïne en opium) - Oplos- en snuifmiddelen (lijm, benzine) - Andere drugs - Slaap- en kalmeringsmiddelen (zoals librium, valium, diazepam, oxazepam, seresta) - Stimulerende middelen (zoals amfetamine, efedrine, ritalin) - Pijnbestrijders (zoals codeïne, methadon, morfine)."
+"A027795";"Drugsafhankelijkheid";"Van drugsafhankelijkheid is sprake als de persoon minstens aan drie van de volgende criteria voldoet:
+- Men gebruikt vaak grotere hoeveelheden of langer dan men van plan was.
+- Men wil beslist minderen of stoppen of heeft zonder succes geprobeerd dit te doen.
+- Er wordt veel tijd gestoken in het verkrijgen van drugs en in de consumptie ervan. Ook kan veel tijd nodig zijn om van de naweeën van gebruik te bekomen. 
+- Iemand heeft een sterke gewenning of tolerantie. Gebruik van dezelfde hoeveelheid heeft minder effect dan eerder. Of: de persoon moet meer gebruiken om een gewenst effect te bereiken.
+- Bij stopzetting of onderbreking van drugsgebruik is er sprake van ontwenningsverschijnselen, ook wel onthoudingsverschijnselen genoemd. Het drugsgebruik heeft vaak tot doel om onthoudingsverschijnselen te verlichten of te voorkómen.
+- De persoon offert vanwege het drugsgebruik sociale en beroepsmatige activiteiten en (andere) besteding van vrije tijd op.
+- Iemand gaat door met drugsgebruik al kent men de nadelen daarvan voor het functioneren of de gezondheid. 
+Er is sprake van drugsafhankelijkheid wanneer drie of meer symptomen zich in dezelfde periode van 12 maanden hebben voorgedaan."
+"A027796";"Aandachtstekort/gedragsstoornis totaal";"Iemand heeft één of meer van de afzonderlijke aandoeningen uit de hoofdgroep aandachtstekort- of gedragsstoornis gehad. Voor een meer gedetailleerde beschrijving van deze aandoeningen wordt verwezen naar de specifieke paragrafen van deze stoornissen."
+"A027797";"ADHD";"ADHD, ofwel aandachtstekortstoornis met hyperactiviteit, wordt vastgesteld indien minstens zes maanden zes of meer van de volgende aandachtsproblemen aanwezig waren: 
+- Onvoldoende aandacht voor details of achteloos fouten maken
+- Moeite om de aandacht bij taken of een spel te houden
+- Niet lijken te luisteren
+- Aanwijzingen niet opvolgen of opdrachten niet kunnen afmaken
+- Moeite met organiseren van taken
+- Vermijden of afkeer hebben van taken die langdurige geestelijke inspanning vragen
+- Dingen vaak kwijtraken die nodig zijn voor taken
+- Gemakkelijk afgeleid worden
+- Vergeetachtig zijn bij dagelijkse bezigheden
+Óf iemand heeft ADHD indien zes of meer kenmerken van hyperactiviteit of impulsiviteit gedurende minstens zes maanden aanwezig waren. Die kenmerken van hyperactiviteit zijn:
+- Onrustig bewegen
+- Opstaan als zitten blijven verwacht wordt
+- Rondrennen of overal op klimmen als dit ongepast is
+- Moeilijk rustig kunnen spelen of ontspannende activiteiten uitvoeren
+- In de weer zijn of maar doordraven
+Van impulsiviteit zijn de kenmerken: 
+- Antwoorden voordat de vraag is afgemaakt
+- Moeite met op de beurt wachten
+- Verstoren van bezigheden van anderen"
+"A027798";"Gedragsstoornis";"Gedragsstoornis wordt beschreven als een zich herhalend en aanhoudend gedragspatroon, waarbij de grondrechten van anderen geweld wordt aangedaan of belangrijke bij de leeftijd horende sociale normen en regels worden overtreden. Een kind of adolescent heeft een gedragsstoornis als minstens drie van de hierna genoemde criteria in een jaar aanwezig waren:
+Agressie gericht op mensen en dieren
+- Pest, bedreigt of intimideert vaak anderen
+- Begint vaak vechtpartijen
+- Heeft een 'wapen' gebruikt dat anderen lichamelijk letsel kan toebrengen (bijvoorbeeld een knuppel, steen, gebroken fles, mes, vuurwapen)
+- Heeft mensen mishandeld
+- Heeft dieren mishandeld
+- Heeft in een direct contact iemand bestolen (bijvoorbeeld iemand van achteren neerslaan, tasjesroof, afpersing, gewapende overval)
+- Heeft iemand tot seksueel contact gedwongen
+Vernieling van eigendom
+- Heeft opzettelijk brand gesticht met de bedoeling ernstige schade te veroorzaken
+- Heeft opzettelijk eigendommen van anderen vernield (anders dan door brandstichting) 
+Leugenachtigheid of diefstal 
+- Heeft ingebroken in iemands huis, gebouw of auto
+- Liegt vaak om goederen of gunsten van anderen te krijgen of om verplichtingen uit de weg te gaan (bijvoorbeeld oplichting)
+- Heeft zonder direct contact met het slachtoffer voorwerpen van waarde gestolen (bijvoorbeeld winkeldiefstal maar zonder in te breken, valsheid in geschrifte)
+Ernstige schendingen van regels
+- Blijft vaak, ondanks het verbod van de ouders, 's nachts van huis weg, beginnend voor het 13e jaar
+- Is tenminste tweemaal van huis weggelopen en 's nachts weggebleven (of eenmaal gedurende een langere periode zonder terug te keren)
+- Spijbelt vaak, beginnend voor het 13e levensjaar"
+"A027799";"Oppositioneel-opstandige gedragsstoornis";"Een kind met oppositioneel-opstandige gedragsstoornis heeft gedurende minimaal zes maanden een patroon van negatief, agressief en opstandig gedrag laten zien. Volgens de DSM-IV heeft een kind deze aandoening als hij of zij voldoet aan vier of meer van de onderstaande criteria gedurende minimaal zes maanden. Het kind
+- Is vaak driftig
+- Maakt vaak ruzie met volwassenen
+- Is vaak opstandig of weigert zich te voegen naar verzoeken of regels van volwassenen
+- Ergert vaak met opzet anderen
+- Geeft anderen vaak de schuld van eigen fouten of wangedrag
+- Is vaak prikkelbaar en ergert zich gemakkelijk aan anderen
+- Is vaak boos en gepikeerd
+- Is vaak hatelijk en wraakzuchtig"
+"A027800";"Antisociale persoonlijkheidsstoornis";"Antisociale persoonlijkheidsstoornis is de enige As-II aandoening die in NEMESIS-2 is vastgesteld. De screener die is gebruikt om deze persoonlijkheidsstoornis te meten, gaat na of er sprake is van een aandoening ooit in het leven en bepaalt niet wanneer de symptomen voor het laatst aanwezig waren. Dit betekent dat er geen 12-maands gegevens van deze stoornis berekend konden worden. Antisociale persoonlijkheidsstoornis wordt gekenmerkt door een diepgaand patroon van gebrek aan achting voor en schending van de rechten van anderen sinds het 15e jaar blijkend uit minstens 3 van de volgende 7 kenmerken: 
+- Niet in staat zich te conformeren aan de maatschappelijke norm dat men zich aan de wet moet houden, zoals blijkt uit het herhaaldelijk plegen van handelingen die een reden voor arrestatie kunnen zijn
+- Oneerlijkheid, zoals blijkt uit herhaaldelijk liegen, het gebruik van valse namen of anderen bezwendelen ten behoeve van eigen voordeel of plezier
+- Impulsiviteit of een onvermogen om 'vooruit te plannen'
+- Prikkelbaarheid en agressiviteit, zoals blijkt uit bij herhaling tot vechtpartijen of geweldpleging komen
+- Roekeloze onverschilligheid ten aanzien van eigen of andermans veiligheid
+- Constante onverantwoordelijkheid, zoals blijkt uit het herhaaldelijk niet in staat zijn om werk te behouden of financiële verplichtingen na te komen
+- Geen spijtgevoelens hebben, zoals blijkt uit een ongevoeligheid voor of het rationaliseren van het feit anderen gekwetst, mishandeld of bestolen te hebben."
+"Perioden"
+Key;Title;Description;Status
+"2007G300";"2007/2009";"";"Definitief"

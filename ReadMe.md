@@ -1,6 +1,6 @@
 # Collecting dutch healthcare related opendataset & analyzing important factors for NL coronovirus infected number
 
-The overall result is published on [public_healthcare_dataset_NL.ipynb](public_healthcare_dataset_NL.ipynb).
+The overall result is published on [colab](https://colab.research.google.com/drive/1KJqXb5qk3vx3GvCpD5SxgwYkMbydu_N3). Or you can dowloaded [public_healthcare_dataset_NL.ipynb](public_healthcare_dataset_NL.ipynb).
 
 ## Overall steps:
 1. Web crawlling/downloading open-dataset from different websites
